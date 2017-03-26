@@ -1,0 +1,981 @@
+Homolog: HLRYPQYEGFFFLHDMTARG  Homolog Score: -198  P-value: Nearly 0
+Homolog: FDYEANHGSYKTYTANQQPR  Homolog Score: -196  P-value: Nearly 0
+Homolog: PDRLDISMDSNYWLTSRSHN  Homolog Score: -195  P-value: Nearly 0
+Homolog: RAYDPAVLNCCNVIFIPASV  Homolog Score: -194  P-value: Nearly 0
+Homolog: PVKFQVMKYEYGEPKDPKNP  Homolog Score: -193  P-value: Nearly 0
+Homolog: PNYACLKYIFPNVVWFNGIA  Homolog Score: -193  P-value: Nearly 0
+Homolog: WNVHHHYMSAWGCVYFSRIG  Homolog Score: -193  P-value: Nearly 0
+Homolog: RDKRVVCHNSKCQKDQGTSG  Homolog Score: -192  P-value: Nearly 0
+Homolog: CNVIFIPASVFYLTFKQIHT  Homolog Score: -191  P-value: Nearly 0
+Homolog: FQVMKYEYGEPKDPKNPLPP  Homolog Score: -191  P-value: Nearly 0
+Homolog: IISCHTVKRKHRDRWDFYQC  Homolog Score: -191  P-value: Nearly 0
+Homolog: FSLLYTIASEDQFNHRKWKW  Homolog Score: -191  P-value: Nearly 0
+Homolog: YDDMITMILEEHAQTCMKLV  Homolog Score: -191  P-value: Nearly 0
+Homolog: CIIEMACASDKKQTPMFESS  Homolog Score: -191  P-value: Nearly 0
+Homolog: KYIFPNVVWFNGIATNFEKK  Homolog Score: -190  P-value: Nearly 0
+Homolog: IKWFRQCVFYVRIKEWIISC  Homolog Score: -190  P-value: Nearly 0
+Homolog: QCTDWKMKIFWAYNHDPIGQ  Homolog Score: -190  P-value: Nearly 0
+Homolog: IKYDHTSEYYDMPYAMDDES  Homolog Score: -190  P-value: Nearly 0
+Homolog: PHLHANELVSPGFKPTKICM  Homolog Score: -190  P-value: Nearly 0
+Homolog: HANELVSPGFKPTKICMAWI  Homolog Score: -190  P-value: Nearly 0
+Homolog: CEYMSLSPGAVPVLCQSPNR  Homolog Score: -190  P-value: Nearly 0
+Homolog: HYTFDYEANHGSYKTYTANQ  Homolog Score: -190  P-value: Nearly 0
+Homolog: HNDRGMYAFEANYKAQLHPV  Homolog Score: -189  P-value: Nearly 0
+Homolog: FYVRIKEWIISCHTVKRKHR  Homolog Score: -189  P-value: Nearly 0
+Homolog: HAVECNIPHDQVPNDPSPTC  Homolog Score: -189  P-value: Nearly 0
+Homolog: ILSLRQSIGAPFGVPNSWTY  Homolog Score: -189  P-value: Nearly 0
+Homolog: VHHHYMSAWGCVYFSRIGWV  Homolog Score: -189  P-value: Nearly 0
+Homolog: IVNFCWAGIKYDHTSEYYDM  Homolog Score: -189  P-value: Nearly 0
+Homolog: PTKICMAWIDGSHDWKFGEM  Homolog Score: -189  P-value: Nearly 0
+Homolog: FWTCHCQLYDNHYMPEGWMT  Homolog Score: -189  P-value: Nearly 0
+Homolog: HAHLMRDKRVVCHNSKCQKD  Homolog Score: -189  P-value: Nearly 0
+Homolog: FNGPVRKMSEHLRYPQYEGF  Homolog Score: -189  P-value: Nearly 0
+Homolog: MEIMKPQENGEAVTVKFPDR  Homolog Score: -188  P-value: Nearly 0
+Homolog: RIKEWIISCHTVKRKHRDRW  Homolog Score: -188  P-value: Nearly 0
+Homolog: HTVKRKHRDRWDFYQCTDWK  Homolog Score: -188  P-value: Nearly 0
+Homolog: HVVLLMDRWNVHHHYMSAWG  Homolog Score: -188  P-value: Nearly 0
+Homolog: YDNHYMPEGWMTSIHHFSLL  Homolog Score: -188  P-value: Nearly 0
+Homolog: CIKHRYWADVMLDPLIHFTQ  Homolog Score: -188  P-value: Nearly 0
+Homolog: RVVCHNSKCQKDQGTSGIQS  Homolog Score: -188  P-value: Nearly 0
+Homolog: CAYIWWFNNSFCITHTKANC  Homolog Score: -188  P-value: Nearly 0
+Homolog: QLYRTSQWNLGTKKRIYPKL  Homolog Score: -188  P-value: Nearly 0
+Homolog: MSWWVKVSWTWDSVMLMYYH  Homolog Score: -188  P-value: Nearly 0
+Homolog: MYYHESLEIFFWWSWKLETW  Homolog Score: -188  P-value: Nearly 0
+Homolog: DRKMYHYTFDYEANHGSYKT  Homolog Score: -188  P-value: Nearly 0
+Homolog: CASDKKQTPMFESSWYPVYQ  Homolog Score: -188  P-value: Nearly 0
+Homolog: CMDMRNMIHGSYVMRHFLMK  Homolog Score: -188  P-value: Nearly 0
+Homolog: QENLLCPSEMTEGHEPCQPM  Homolog Score: -188  P-value: Nearly 0
+Homolog: QDLTKGAPYLVEEKWMQQPE  Homolog Score: -187  P-value: Nearly 0
+Homolog: PKDPKNPLPPNYACLKYIFP  Homolog Score: -187  P-value: Nearly 0
+Homolog: FNGIATNFEKKTWMNQQART  Homolog Score: -187  P-value: Nearly 0
+Homolog: YYDMPYAMDDESTIDPNHMN  Homolog Score: -187  P-value: Nearly 0
+Homolog: CQLYDNHYMPEGWMTSIHHF  Homolog Score: -187  P-value: Nearly 0
+Homolog: DSVMLMYYHESLEIFFWWSW  Homolog Score: -187  P-value: Nearly 0
+Homolog: EHLRYPQYEGFFFLHDMTAR  Homolog Score: -187  P-value: Nearly 0
+Homolog: MITMILEEHAQTCMKLVELV  Homolog Score: -187  P-value: Nearly 0
+Homolog: IIEMACASDKKQTPMFESSW  Homolog Score: -187  P-value: Nearly 0
+Homolog: RSHNDRGMYAFEANYKAQLH  Homolog Score: -186  P-value: Nearly 0
+Homolog: QCVFYVRIKEWIISCHTVKR  Homolog Score: -186  P-value: Nearly 0
+Homolog: QLYDNHYMPEGWMTSIHHFS  Homolog Score: -186  P-value: Nearly 0
+Homolog: IASEDQFNHRKWKWTMQHMG  Homolog Score: -186  P-value: Nearly 0
+Homolog: GSCEYMSLSPGAVPVLCQSP  Homolog Score: -186  P-value: Nearly 0
+Homolog: MYWKQKRCHAHLMRDKRVVC  Homolog Score: -186  P-value: Nearly 0
+Homolog: RNNECHRQSCAYIWWFNNSF  Homolog Score: -186  P-value: Nearly 0
+Homolog: DAAHKILIRYEKTNGMWIWM  Homolog Score: -186  P-value: Nearly 0
+Homolog: ESLEIFFWWSWKLETWLKRT  Homolog Score: -186  P-value: Nearly 0
+Homolog: MSEHLRYPQYEGFFFLHDMT  Homolog Score: -186  P-value: Nearly 0
+Homolog: QYNAYMMCWCQAIDRKMYHY  Homolog Score: -186  P-value: Nearly 0
+Homolog: CQAIDRKMYHYTFDYEANHG  Homolog Score: -186  P-value: Nearly 0
+Homolog: SYVMRHFLMKQCVDQENLLC  Homolog Score: -186  P-value: Nearly 0
+Homolog: RHFLMKQCVDQENLLCPSEM  Homolog Score: -186  P-value: Nearly 0
+Homolog: VKRKHRDRWDFYQCTDWKMK  Homolog Score: -185  P-value: Nearly 0
+Homolog: RDRWDFYQCTDWKMKIFWAY  Homolog Score: -185  P-value: Nearly 0
+Homolog: TDWKMKIFWAYNHDPIGQWQ  Homolog Score: -185  P-value: Nearly 0
+Homolog: TAFHAVECNIPHDQVPNDPS  Homolog Score: -185  P-value: Nearly 0
+Homolog: NKCIVNFCWAGIKYDHTSEY  Homolog Score: -185  P-value: Nearly 0
+Homolog: CIVNFCWAGIKYDHTSEYYD  Homolog Score: -185  P-value: Nearly 0
+Homolog: KYDHTSEYYDMPYAMDDEST  Homolog Score: -185  P-value: Nearly 0
+Homolog: PGFKPTKICMAWIDGSHDWK  Homolog Score: -185  P-value: Nearly 0
+Homolog: HDWKFGEMRCFEVWNGVEYS  Homolog Score: -185  P-value: Nearly 0
+Homolog: RCFEVWNGVEYSLKVFHHEW  Homolog Score: -185  P-value: Nearly 0
+Homolog: YSLKVFHHEWNNPWPKNWRS  Homolog Score: -185  P-value: Nearly 0
+Homolog: PLIHFTQHDYAPMNHCTSGM  Homolog Score: -185  P-value: Nearly 0
+Homolog: RQSCAYIWWFNNSFCITHTK  Homolog Score: -185  P-value: Nearly 0
+Homolog: RIYPKLDPAHENTNMTENFI  Homolog Score: -185  P-value: Nearly 0
+Homolog: YEDAAHKILIRYEKTNGMWI  Homolog Score: -185  P-value: Nearly 0
+Homolog: YYHESLEIFFWWSWKLETWL  Homolog Score: -185  P-value: Nearly 0
+Homolog: QYEGFFFLHDMTARGGALYI  Homolog Score: -185  P-value: Nearly 0
+Homolog: HFLMKQCVDQENLLCPSEMT  Homolog Score: -185  P-value: Nearly 0
+Homolog: PHISDIQMDLDWTCTIRCES  Homolog Score: -184  P-value: Nearly 0
+Homolog: MDLDWTCTIRCESSFGVGTG  Homolog Score: -184  P-value: Nearly 0
+Homolog: VEEKWMQQPEGTQKPMEIMK  Homolog Score: -184  P-value: Nearly 0
+Homolog: RLDISMDSNYWLTSRSHNDR  Homolog Score: -184  P-value: Nearly 0
+Homolog: DSNYWLTSRSHNDRGMYAFE  Homolog Score: -184  P-value: Nearly 0
+Homolog: EANYKAQLHPVKFQVMKYEY  Homolog Score: -184  P-value: Nearly 0
+Homolog: VKFQVMKYEYGEPKDPKNPL  Homolog Score: -184  P-value: Nearly 0
+Homolog: ACLKYIFPNVVWFNGIATNF  Homolog Score: -184  P-value: Nearly 0
+Homolog: RTWIKWFRQCVFYVRIKEWI  Homolog Score: -184  P-value: Nearly 0
+Homolog: WIKWFRQCVFYVRIKEWIIS  Homolog Score: -184  P-value: Nearly 0
+Homolog: DWKMKIFWAYNHDPIGQWQS  Homolog Score: -184  P-value: Nearly 0
+Homolog: YNHDPIGQWQSEATMPRPTR  Homolog Score: -184  P-value: Nearly 0
+Homolog: PIGQWQSEATMPRPTRFGFT  Homolog Score: -184  P-value: Nearly 0
+Homolog: FGFTAFHAVECNIPHDQVPN  Homolog Score: -184  P-value: Nearly 0
+Homolog: MILSLRQSIGAPFGVPNSWT  Homolog Score: -184  P-value: Nearly 0
+Homolog: NWDHVVLLMDRWNVHHHYMS  Homolog Score: -184  P-value: Nearly 0
+Homolog: EYSLKVFHHEWNNPWPKNWR  Homolog Score: -184  P-value: Nearly 0
+Homolog: PEGWMTSIHHFSLLYTIASE  Homolog Score: -184  P-value: Nearly 0
+Homolog: PMNHCTSGMYWKQKRCHAHL  Homolog Score: -184  P-value: Nearly 0
+Homolog: QKRCHAHLMRDKRVVCHNSK  Homolog Score: -184  P-value: Nearly 0
+Homolog: MRDKRVVCHNSKCQKDQGTS  Homolog Score: -184  P-value: Nearly 0
+Homolog: CQKDQGTSGIQSRNNECHRQ  Homolog Score: -184  P-value: Nearly 0
+Homolog: GTKKRIYPKLDPAHENTNMT  Homolog Score: -184  P-value: Nearly 0
+Homolog: KKRIYPKLDPAHENTNMTEN  Homolog Score: -184  P-value: Nearly 0
+Homolog: VMLMYYHESLEIFFWWSWKL  Homolog Score: -184  P-value: Nearly 0
+Homolog: FFLHDMTARGGALYIFEAYD  Homolog Score: -184  P-value: Nearly 0
+Homolog: FLHDMTARGGALYIFEAYDD  Homolog Score: -184  P-value: Nearly 0
+Homolog: GALYIFEAYDDMITMILEEH  Homolog Score: -184  P-value: .10
+Homolog: AYDDMITMILEEHAQTCMKL  Homolog Score: -184  P-value: .10
+Homolog: QAIDRKMYHYTFDYEANHGS  Homolog Score: -184  P-value: .10
+Homolog: IDRKMYHYTFDYEANHGSYK  Homolog Score: -184  P-value: .10
+Homolog: YEANHGSYKTYTANQQPRCF  Homolog Score: -184  P-value: .10
+Homolog: RCFACIIEMACASDKKQTPM  Homolog Score: -184  P-value: .10
+Homolog: ENLLCPSEMTEGHEPCQPMD  Homolog Score: -184  P-value: .10
+Homolog: NLLCPSEMTEGHEPCQPMDD  Homolog Score: -184  P-value: .10
+Homolog: VLNCCNVIFIPASVFYLTFK  Homolog Score: -183  P-value: .10
+Homolog: NCCNVIFIPASVFYLTFKQI  Homolog Score: -183  P-value: .10
+Homolog: DISMDSNYWLTSRSHNDRGM  Homolog Score: -183  P-value: .10
+Homolog: QLHPVKFQVMKYEYGEPKDP  Homolog Score: -183  P-value: .10
+Homolog: YACLKYIFPNVVWFNGIATN  Homolog Score: -183  P-value: .10
+Homolog: RMVDFNVCAEYMILSLRQSI  Homolog Score: -183  P-value: .10
+Homolog: KNWDHVVLLMDRWNVHHHYM  Homolog Score: -183  P-value: .10
+Homolog: CVYFSRIGWVNKCIVNFCWA  Homolog Score: -183  P-value: .10
+Homolog: RIGWVNKCIVNFCWAGIKYD  Homolog Score: -183  P-value: .10
+Homolog: EYYDMPYAMDDESTIDPNHM  Homolog Score: -183  P-value: .10
+Homolog: DNHYMPEGWMTSIHHFSLLY  Homolog Score: -183  P-value: .10
+Homolog: HHFSLLYTIASEDQFNHRKW  Homolog Score: -183  P-value: .10
+Homolog: RCHAHLMRDKRVVCHNSKCQ  Homolog Score: -183  P-value: .10
+Homolog: NNECHRQSCAYIWWFNNSFC  Homolog Score: -183  P-value: .10
+Homolog: WWVKVSWTWDSVMLMYYHES  Homolog Score: -183  P-value: .10
+Homolog: EIFFWWSWKLETWLKRTLRF  Homolog Score: -183  P-value: .10
+Homolog: TWLKRTLRFSFNGPVRKMSE  Homolog Score: -183  P-value: .10
+Homolog: AIDRKMYHYTFDYEANHGSY  Homolog Score: -183  P-value: .10
+Homolog: DKKQTPMFESSWYPVYQHIL  Homolog Score: -183  P-value: .10
+Homolog: RNMIHGSYVMRHFLMKQCVD  Homolog Score: -183  P-value: .10
+Homolog: IRCESSFGVGTGTFKPTTCH  Homolog Score: -182  P-value: .10
+Homolog: CESSFGVGTGTFKPTTCHPN  Homolog Score: -182  P-value: .10
+Homolog: PVPKVPRAYDPAVLNCCNVI  Homolog Score: -182  P-value: .10
+Homolog: IFIPASVFYLTFKQIHTGLP  Homolog Score: -182  P-value: .10
+Homolog: FYLTFKQIHTGLPAKRGMDQ  Homolog Score: -182  P-value: .10
+Homolog: HTGLPAKRGMDQDLTKGAPY  Homolog Score: -182  P-value: .10
+Homolog: ANYKAQLHPVKFQVMKYEYG  Homolog Score: -182  P-value: .10
+Homolog: FRQCVFYVRIKEWIISCHTV  Homolog Score: -182  P-value: .10
+Homolog: IKEWIISCHTVKRKHRDRWD  Homolog Score: -182  P-value: .10
+Homolog: CTDWKMKIFWAYNHDPIGQW  Homolog Score: -182  P-value: .10
+Homolog: NHDPIGQWQSEATMPRPTRF  Homolog Score: -182  P-value: .10
+Homolog: NIPHDQVPNDPSPTCFRMVD  Homolog Score: -182  P-value: .10
+Homolog: IGAPFGVPNSWTYMNYFNYI  Homolog Score: -182  P-value: .10
+Homolog: AWGCVYFSRIGWVNKCIVNF  Homolog Score: -182  P-value: .10
+Homolog: ANELVSPGFKPTKICMAWID  Homolog Score: -182  P-value: .10
+Homolog: FGEMRCFEVWNGVEYSLKVF  Homolog Score: -182  P-value: .10
+Homolog: VEYSLKVFHHEWNNPWPKNW  Homolog Score: -182  P-value: .10
+Homolog: MTSIHHFSLLYTIASEDQFN  Homolog Score: -182  P-value: .10
+Homolog: HDYAPMNHCTSGMYWKQKRC  Homolog Score: -182  P-value: .10
+Homolog: KANCCCYTSQQLYRTSQWNL  Homolog Score: -182  P-value: .10
+Homolog: CYTSQQLYRTSQWNLGTKKR  Homolog Score: -182  P-value: .10
+Homolog: WLKRTLRFSFNGPVRKMSEH  Homolog Score: -182  P-value: .10
+Homolog: SEHLRYPQYEGFFFLHDMTA  Homolog Score: -182  P-value: .10
+Homolog: CNTVHCQYNAYMMCWCQAID  Homolog Score: -182  P-value: .10
+Homolog: SWYPVYQHILPTCMDMRNMI  Homolog Score: -182  P-value: .10
+Homolog: TCTIRCESSFGVGTGTFKPT  Homolog Score: -181  P-value: .10
+Homolog: NVIFIPASVFYLTFKQIHTG  Homolog Score: -181  P-value: .10
+Homolog: YLVEEKWMQQPEGTQKPMEI  Homolog Score: -181  P-value: .10
+Homolog: EEKWMQQPEGTQKPMEIMKP  Homolog Score: -181  P-value: .10
+Homolog: SNYWLTSRSHNDRGMYAFEA  Homolog Score: -181  P-value: .10
+Homolog: DRGMYAFEANYKAQLHPVKF  Homolog Score: -181  P-value: .10
+Homolog: NPLPPNYACLKYIFPNVVWF  Homolog Score: -181  P-value: .10
+Homolog: PNVVWFNGIATNFEKKTWMN  Homolog Score: -181  P-value: .10
+Homolog: RQCVFYVRIKEWIISCHTVK  Homolog Score: -181  P-value: .10
+Homolog: KMKIFWAYNHDPIGQWQSEA  Homolog Score: -181  P-value: .10
+Homolog: AEYMILSLRQSIGAPFGVPN  Homolog Score: -181  P-value: .10
+Homolog: WAGIKYDHTSEYYDMPYAMD  Homolog Score: -181  P-value: .10
+Homolog: MAWIDGSHDWKFGEMRCFEV  Homolog Score: -181  P-value: .10
+Homolog: GSHDWKFGEMRCFEVWNGVE  Homolog Score: -181  P-value: .10
+Homolog: NGVEYSLKVFHHEWNNPWPK  Homolog Score: -181  P-value: .10
+Homolog: FHHEWNNPWPKNWRSGWLEC  Homolog Score: -181  P-value: .10
+Homolog: GWLECICQCKFWTCHCQLYD  Homolog Score: -181  P-value: .10
+Homolog: WLECICQCKFWTCHCQLYDN  Homolog Score: -181  P-value: .10
+Homolog: RKWKWTMQHMGSCEYMSLSP  Homolog Score: -181  P-value: .10
+Homolog: CQSPNRYGSNGCIKHRYWAD  Homolog Score: -181  P-value: .10
+Homolog: IWWFNNSFCITHTKANCCCY  Homolog Score: -181  P-value: .10
+Homolog: PKLDPAHENTNMTENFILHA  Homolog Score: -181  P-value: .10
+Homolog: MAMMKTSYEDAAHKILIRYE  Homolog Score: -181  P-value: .10
+Homolog: AHKILIRYEKTNGMWIWMSW  Homolog Score: -181  P-value: .10
+Homolog: WTWDSVMLMYYHESLEIFFW  Homolog Score: -181  P-value: .10
+Homolog: RTLRFSFNGPVRKMSEHLRY  Homolog Score: -181  P-value: .10
+Homolog: KLVELVLCNTVHCQYNAYMM  Homolog Score: -181  P-value: .10
+Homolog: ELVLCNTVHCQYNAYMMCWC  Homolog Score: -181  P-value: .10
+Homolog: YNAYMMCWCQAIDRKMYHYT  Homolog Score: -181  P-value: .10
+Homolog: KMYHYTFDYEANHGSYKTYT  Homolog Score: -181  P-value: .10
+Homolog: MYHYTFDYEANHGSYKTYTA  Homolog Score: -181  P-value: .10
+Homolog: FESSWYPVYQHILPTCMDMR  Homolog Score: -181  P-value: .10
+Homolog: QHILPTCMDMRNMIHGSYVM  Homolog Score: -181  P-value: .10
+Homolog: HGSYVMRHFLMKQCVDQENL  Homolog Score: -181  P-value: .10
+Homolog: ISDIQMDLDWTCTIRCESSF  Homolog Score: -180  P-value: .10
+Homolog: VIFIPASVFYLTFKQIHTGL  Homolog Score: -180  P-value: .10
+Homolog: EKWMQQPEGTQKPMEIMKPQ  Homolog Score: -180  P-value: .10
+Homolog: VKFPDRLDISMDSNYWLTSR  Homolog Score: -180  P-value: .10
+Homolog: NDRGMYAFEANYKAQLHPVK  Homolog Score: -180  P-value: .10
+Homolog: MKYEYGEPKDPKNPLPPNYA  Homolog Score: -180  P-value: .10
+Homolog: TNFEKKTWMNQQARTWIKWF  Homolog Score: -180  P-value: .10
+Homolog: EATMPRPTRFGFTAFHAVEC  Homolog Score: -180  P-value: .10
+Homolog: PTCFRMVDFNVCAEYMILSL  Homolog Score: -180  P-value: .10
+Homolog: QSIGAPFGVPNSWTYMNYFN  Homolog Score: -180  P-value: .10
+Homolog: SIGAPFGVPNSWTYMNYFNY  Homolog Score: -180  P-value: .10
+Homolog: FNYIKNWDHVVLLMDRWNVH  Homolog Score: -180  P-value: .10
+Homolog: CICQCKFWTCHCQLYDNHYM  Homolog Score: -180  P-value: .10
+Homolog: WTCHCQLYDNHYMPEGWMTS  Homolog Score: -180  P-value: .10
+Homolog: QFNHRKWKWTMQHMGSCEYM  Homolog Score: -180  P-value: .10
+Homolog: FNHRKWKWTMQHMGSCEYMS  Homolog Score: -180  P-value: .10
+Homolog: GAVPVLCQSPNRYGSNGCIK  Homolog Score: -180  P-value: .10
+Homolog: NGCIKHRYWADVMLDPLIHF  Homolog Score: -180  P-value: .10
+Homolog: KHRYWADVMLDPLIHFTQHD  Homolog Score: -180  P-value: .10
+Homolog: HLMRDKRVVCHNSKCQKDQG  Homolog Score: -180  P-value: .10
+Homolog: CHNSKCQKDQGTSGIQSRNN  Homolog Score: -180  P-value: .10
+Homolog: NSKCQKDQGTSGIQSRNNEC  Homolog Score: -180  P-value: .10
+Homolog: NSFCITHTKANCCCYTSQQL  Homolog Score: -180  P-value: .10
+Homolog: FCITHTKANCCCYTSQQLYR  Homolog Score: -180  P-value: .10
+Homolog: QWNLGTKKRIYPKLDPAHEN  Homolog Score: -180  P-value: .10
+Homolog: KILIRYEKTNGMWIWMSWWV  Homolog Score: -180  P-value: .10
+Homolog: HESLEIFFWWSWKLETWLKR  Homolog Score: -180  P-value: .10
+Homolog: KRTLRFSFNGPVRKMSEHLR  Homolog Score: -180  P-value: .10
+Homolog: GPVRKMSEHLRYPQYEGFFF  Homolog Score: -180  P-value: .10
+Homolog: MTARGGALYIFEAYDDMITM  Homolog Score: -180  P-value: .10
+Homolog: ILEEHAQTCMKLVELVLCNT  Homolog Score: -180  P-value: .10
+Homolog: CQYNAYMMCWCQAIDRKMYH  Homolog Score: -180  P-value: .10
+Homolog: PRCFACIIEMACASDKKQTP  Homolog Score: -180  P-value: .10
+Homolog: MRNMIHGSYVMRHFLMKQCV  Homolog Score: -180  P-value: .10
+Homolog: RCPKLLLPHISDIQMDLDWT  Homolog Score: -179  P-value: .10
+Homolog: PTTCHPNVGPVPKVPRAYDP  Homolog Score: -179  P-value: .10
+Homolog: PKVPRAYDPAVLNCCNVIFI  Homolog Score: -179  P-value: .10
+Homolog: FKQIHTGLPAKRGMDQDLTK  Homolog Score: -179  P-value: .10
+Homolog: IHTGLPAKRGMDQDLTKGAP  Homolog Score: -179  P-value: .10
+Homolog: TKGAPYLVEEKWMQQPEGTQ  Homolog Score: -179  P-value: .10
+Homolog: ENGEAVTVKFPDRLDISMDS  Homolog Score: -179  P-value: .10
+Homolog: RGMYAFEANYKAQLHPVKFQ  Homolog Score: -179  P-value: .10
+Homolog: MYAFEANYKAQLHPVKFQVM  Homolog Score: -179  P-value: .10
+Homolog: AQLHPVKFQVMKYEYGEPKD  Homolog Score: -179  P-value: .10
+Homolog: CHTVKRKHRDRWDFYQCTDW  Homolog Score: -179  P-value: .10
+Homolog: WQSEATMPRPTRFGFTAFHA  Homolog Score: -179  P-value: .10
+Homolog: MVDFNVCAEYMILSLRQSIG  Homolog Score: -179  P-value: .10
+Homolog: CAEYMILSLRQSIGAPFGVP  Homolog Score: -179  P-value: .10
+Homolog: RQSIGAPFGVPNSWTYMNYF  Homolog Score: -179  P-value: .10
+Homolog: PNSWTYMNYFNYIKNWDHVV  Homolog Score: -179  P-value: .10
+Homolog: NSWTYMNYFNYIKNWDHVVL  Homolog Score: -179  P-value: .10
+Homolog: NYFNYIKNWDHVVLLMDRWN  Homolog Score: -179  P-value: .10
+Homolog: WDHVVLLMDRWNVHHHYMSA  Homolog Score: -179  P-value: .10
+Homolog: NVHHHYMSAWGCVYFSRIGW  Homolog Score: -179  P-value: .10
+Homolog: GWVNKCIVNFCWAGIKYDHT  Homolog Score: -179  P-value: .10
+Homolog: VNKCIVNFCWAGIKYDHTSE  Homolog Score: -179  P-value: .10
+Homolog: VNFCWAGIKYDHTSEYYDMP  Homolog Score: -179  P-value: .10
+Homolog: NFCWAGIKYDHTSEYYDMPY  Homolog Score: -179  P-value: .10
+Homolog: HTSEYYDMPYAMDDESTIDP  Homolog Score: -179  P-value: .10
+Homolog: SEYYDMPYAMDDESTIDPNH  Homolog Score: -179  P-value: .10
+Homolog: SLKVFHHEWNNPWPKNWRSG  Homolog Score: -179  P-value: .10
+Homolog: CQCKFWTCHCQLYDNHYMPE  Homolog Score: -179  P-value: .10
+Homolog: CKFWTCHCQLYDNHYMPEGW  Homolog Score: -179  P-value: .20
+Homolog: HRKWKWTMQHMGSCEYMSLS  Homolog Score: -179  P-value: .20
+Homolog: TQHDYAPMNHCTSGMYWKQK  Homolog Score: -179  P-value: .20
+Homolog: QHDYAPMNHCTSGMYWKQKR  Homolog Score: -179  P-value: .20
+Homolog: TSGMYWKQKRCHAHLMRDKR  Homolog Score: -179  P-value: .20
+Homolog: ECHRQSCAYIWWFNNSFCIT  Homolog Score: -179  P-value: .20
+Homolog: THTKANCCCYTSQQLYRTSQ  Homolog Score: -179  P-value: .20
+Homolog: NFILHAMAMMKTSYEDAAHK  Homolog Score: -179  P-value: .20
+Homolog: TWDSVMLMYYHESLEIFFWW  Homolog Score: -179  P-value: .20
+Homolog: FFWWSWKLETWLKRTLRFSF  Homolog Score: -179  P-value: .20
+Homolog: PVRKMSEHLRYPQYEGFFFL  Homolog Score: -179  P-value: .20
+Homolog: HGSYKTYTANQQPRCFACII  Homolog Score: -179  P-value: .20
+Homolog: KLLLPHISDIQMDLDWTCTI  Homolog Score: -178  P-value: .20
+Homolog: TIRCESSFGVGTGTFKPTTC  Homolog Score: -178  P-value: .20
+Homolog: GTFKPTTCHPNVGPVPKVPR  Homolog Score: -178  P-value: .20
+Homolog: DRLDISMDSNYWLTSRSHND  Homolog Score: -178  P-value: .20
+Homolog: NYKAQLHPVKFQVMKYEYGE  Homolog Score: -178  P-value: .20
+Homolog: KAQLHPVKFQVMKYEYGEPK  Homolog Score: -178  P-value: .20
+Homolog: NYACLKYIFPNVVWFNGIAT  Homolog Score: -178  P-value: .20
+Homolog: YIFPNVVWFNGIATNFEKKT  Homolog Score: -178  P-value: .20
+Homolog: QQARTWIKWFRQCVFYVRIK  Homolog Score: -178  P-value: .20
+Homolog: KWFRQCVFYVRIKEWIISCH  Homolog Score: -178  P-value: .20
+Homolog: ISCHTVKRKHRDRWDFYQCT  Homolog Score: -178  P-value: .20
+Homolog: RKHRDRWDFYQCTDWKMKIF  Homolog Score: -178  P-value: .20
+Homolog: RWDFYQCTDWKMKIFWAYNH  Homolog Score: -178  P-value: .20
+Homolog: CNIPHDQVPNDPSPTCFRMV  Homolog Score: -178  P-value: .20
+Homolog: TCFRMVDFNVCAEYMILSLR  Homolog Score: -178  P-value: .20
+Homolog: YMNYFNYIKNWDHVVLLMDR  Homolog Score: -178  P-value: .20
+Homolog: MNYFNYIKNWDHVVLLMDRW  Homolog Score: -178  P-value: .20
+Homolog: HHHYMSAWGCVYFSRIGWVN  Homolog Score: -178  P-value: .20
+Homolog: HHYMSAWGCVYFSRIGWVNK  Homolog Score: -178  P-value: .20
+Homolog: NNPWPKNWRSGWLECICQCK  Homolog Score: -178  P-value: .20
+Homolog: LECICQCKFWTCHCQLYDNH  Homolog Score: -178  P-value: .20
+Homolog: TSIHHFSLLYTIASEDQFNH  Homolog Score: -178  P-value: .20
+Homolog: HFSLLYTIASEDQFNHRKWK  Homolog Score: -178  P-value: .20
+Homolog: SLLYTIASEDQFNHRKWKWT  Homolog Score: -178  P-value: .20
+Homolog: ASEDQFNHRKWKWTMQHMGS  Homolog Score: -178  P-value: .20
+Homolog: WKWTMQHMGSCEYMSLSPGA  Homolog Score: -178  P-value: .20
+Homolog: KWTMQHMGSCEYMSLSPGAV  Homolog Score: -178  P-value: .20
+Homolog: VPVLCQSPNRYGSNGCIKHR  Homolog Score: -178  P-value: .20
+Homolog: YAPMNHCTSGMYWKQKRCHA  Homolog Score: -178  P-value: .20
+Homolog: NCCCYTSQQLYRTSQWNLGT  Homolog Score: -178  P-value: .20
+Homolog: EDAAHKILIRYEKTNGMWIW  Homolog Score: -178  P-value: .20
+Homolog: WIWMSWWVKVSWTWDSVMLM  Homolog Score: -178  P-value: .20
+Homolog: WWSWKLETWLKRTLRFSFNG  Homolog Score: -178  P-value: .20
+Homolog: YIFEAYDDMITMILEEHAQT  Homolog Score: -178  P-value: .20
+Homolog: QPRCFACIIEMACASDKKQT  Homolog Score: -178  P-value: .20
+Homolog: ASDKKQTPMFESSWYPVYQH  Homolog Score: -178  P-value: .20
+Homolog: PMFESSWYPVYQHILPTCMD  Homolog Score: -178  P-value: .20
+Homolog: VYQHILPTCMDMRNMIHGSY  Homolog Score: -178  P-value: .20
+Homolog: PTCMDMRNMIHGSYVMRHFL  Homolog Score: -178  P-value: .20
+Homolog: VMRHFLMKQCVDQENLLCPS  Homolog Score: -178  P-value: .20
+Homolog: DQENLLCPSEMTEGHEPCQP  Homolog Score: -178  P-value: .20
+Homolog: QMDLDWTCTIRCESSFGVGT  Homolog Score: -177  P-value: .20
+Homolog: WTCTIRCESSFGVGTGTFKP  Homolog Score: -177  P-value: .20
+Homolog: CHPNVGPVPKVPRAYDPAVL  Homolog Score: -177  P-value: .20
+Homolog: VFYLTFKQIHTGLPAKRGMD  Homolog Score: -177  P-value: .20
+Homolog: LTFKQIHTGLPAKRGMDQDL  Homolog Score: -177  P-value: .20
+Homolog: PAKRGMDQDLTKGAPYLVEE  Homolog Score: -177  P-value: .20
+Homolog: PEGTQKPMEIMKPQENGEAV  Homolog Score: -177  P-value: .20
+Homolog: MDSNYWLTSRSHNDRGMYAF  Homolog Score: -177  P-value: .20
+Homolog: KHRDRWDFYQCTDWKMKIFW  Homolog Score: -177  P-value: .20
+Homolog: PTRFGFTAFHAVECNIPHDQ  Homolog Score: -177  P-value: .20
+Homolog: SLRQSIGAPFGVPNSWTYMN  Homolog Score: -177  P-value: .20
+Homolog: RWNVHHHYMSAWGCVYFSRI  Homolog Score: -177  P-value: .20
+Homolog: FCWAGIKYDHTSEYYDMPYA  Homolog Score: -177  P-value: .20
+Homolog: NCSNMGSTWSWAFSPHLHAN  Homolog Score: -177  P-value: .20
+Homolog: CSNMGSTWSWAFSPHLHANE  Homolog Score: -177  P-value: .20
+Homolog: SWAFSPHLHANELVSPGFKP  Homolog Score: -177  P-value: .20
+Homolog: GEMRCFEVWNGVEYSLKVFH  Homolog Score: -177  P-value: .20
+Homolog: LKVFHHEWNNPWPKNWRSGW  Homolog Score: -177  P-value: .20
+Homolog: PGAVPVLCQSPNRYGSNGCI  Homolog Score: -177  P-value: .20
+Homolog: RYWADVMLDPLIHFTQHDYA  Homolog Score: -177  P-value: .20
+Homolog: HNSKCQKDQGTSGIQSRNNE  Homolog Score: -177  P-value: .20
+Homolog: QKDQGTSGIQSRNNECHRQS  Homolog Score: -177  P-value: .20
+Homolog: TSGIQSRNNECHRQSCAYIW  Homolog Score: -177  P-value: .20
+Homolog: QSCAYIWWFNNSFCITHTKA  Homolog Score: -177  P-value: .20
+Homolog: NNSFCITHTKANCCCYTSQQ  Homolog Score: -177  P-value: .20
+Homolog: HTKANCCCYTSQQLYRTSQW  Homolog Score: -177  P-value: .20
+Homolog: TENFILHAMAMMKTSYEDAA  Homolog Score: -177  P-value: .20
+Homolog: AMAMMKTSYEDAAHKILIRY  Homolog Score: -177  P-value: .20
+Homolog: AAHKILIRYEKTNGMWIWMS  Homolog Score: -177  P-value: .20
+Homolog: GMWIWMSWWVKVSWTWDSVM  Homolog Score: -177  P-value: .20
+Homolog: MKLVELVLCNTVHCQYNAYM  Homolog Score: -177  P-value: .20
+Homolog: MMCWCQAIDRKMYHYTFDYE  Homolog Score: -177  P-value: .20
+Homolog: YTANQQPRCFACIIEMACAS  Homolog Score: -177  P-value: .20
+Homolog: DMRNMIHGSYVMRHFLMKQC  Homolog Score: -177  P-value: .20
+Homolog: HISDIQMDLDWTCTIRCESS  Homolog Score: -176  P-value: .20
+Homolog: LTKGAPYLVEEKWMQQPEGT  Homolog Score: -176  P-value: .20
+Homolog: KGAPYLVEEKWMQQPEGTQK  Homolog Score: -176  P-value: .20
+Homolog: QENGEAVTVKFPDRLDISMD  Homolog Score: -176  P-value: .20
+Homolog: NGEAVTVKFPDRLDISMDSN  Homolog Score: -176  P-value: .20
+Homolog: YWLTSRSHNDRGMYAFEANY  Homolog Score: -176  P-value: .20
+Homolog: YAFEANYKAQLHPVKFQVMK  Homolog Score: -176  P-value: .20
+Homolog: VMKYEYGEPKDPKNPLPPNY  Homolog Score: -176  P-value: .20
+Homolog: PPNYACLKYIFPNVVWFNGI  Homolog Score: -176  P-value: .20
+Homolog: NFEKKTWMNQQARTWIKWFR  Homolog Score: -176  P-value: .20
+Homolog: PSPTCFRMVDFNVCAEYMIL  Homolog Score: -176  P-value: .20
+Homolog: YFNYIKNWDHVVLLMDRWNV  Homolog Score: -176  P-value: .20
+Homolog: YMSAWGCVYFSRIGWVNKCI  Homolog Score: -176  P-value: .20
+Homolog: VYFSRIGWVNKCIVNFCWAG  Homolog Score: -176  P-value: .20
+Homolog: YFSRIGWVNKCIVNFCWAGI  Homolog Score: -176  P-value: .20
+Homolog: GIKYDHTSEYYDMPYAMDDE  Homolog Score: -176  P-value: .20
+Homolog: YDMPYAMDDESTIDPNHMNC  Homolog Score: -176  P-value: .20
+Homolog: IDPNHMNCSNMGSTWSWAFS  Homolog Score: -176  P-value: .20
+Homolog: WAFSPHLHANELVSPGFKPT  Homolog Score: -176  P-value: .20
+Homolog: ELVSPGFKPTKICMAWIDGS  Homolog Score: -176  P-value: .20
+Homolog: KICMAWIDGSHDWKFGEMRC  Homolog Score: -176  P-value: .20
+Homolog: ICQCKFWTCHCQLYDNHYMP  Homolog Score: -176  P-value: .20
+Homolog: SCEYMSLSPGAVPVLCQSPN  Homolog Score: -176  P-value: .20
+Homolog: PNRYGSNGCIKHRYWADVML  Homolog Score: -176  P-value: .20
+Homolog: GCIKHRYWADVMLDPLIHFT  Homolog Score: -176  P-value: .20
+Homolog: MLDPLIHFTQHDYAPMNHCT  Homolog Score: -176  P-value: .20
+Homolog: IHFTQHDYAPMNHCTSGMYW  Homolog Score: -176  P-value: .20
+Homolog: FTQHDYAPMNHCTSGMYWKQ  Homolog Score: -176  P-value: .20
+Homolog: KRCHAHLMRDKRVVCHNSKC  Homolog Score: -176  P-value: .20
+Homolog: FNNSFCITHTKANCCCYTSQ  Homolog Score: -176  P-value: .20
+Homolog: CCCYTSQQLYRTSQWNLGTK  Homolog Score: -176  P-value: .20
+Homolog: RTSQWNLGTKKRIYPKLDPA  Homolog Score: -176  P-value: .20
+Homolog: YPKLDPAHENTNMTENFILH  Homolog Score: -176  P-value: .20
+Homolog: ENFILHAMAMMKTSYEDAAH  Homolog Score: -176  P-value: .20
+Homolog: HAMAMMKTSYEDAAHKILIR  Homolog Score: -176  P-value: .20
+Homolog: RFSFNGPVRKMSEHLRYPQY  Homolog Score: -176  P-value: .20
+Homolog: QQPRCFACIIEMACASDKKQ  Homolog Score: -176  P-value: .20
+Homolog: SDKKQTPMFESSWYPVYQHI  Homolog Score: -176  P-value: .20
+Homolog: KKQTPMFESSWYPVYQHILP  Homolog Score: -176  P-value: .20
+Homolog: LLLPHISDIQMDLDWTCTIR  Homolog Score: -175  P-value: .20
+Homolog: SSFGVGTGTFKPTTCHPNVG  Homolog Score: -175  P-value: .20
+Homolog: NYWLTSRSHNDRGMYAFEAN  Homolog Score: -175  P-value: .20
+Homolog: YKAQLHPVKFQVMKYEYGEP  Homolog Score: -175  P-value: .20
+Homolog: PKNPLPPNYACLKYIFPNVV  Homolog Score: -175  P-value: .20
+Homolog: VVWFNGIATNFEKKTWMNQQ  Homolog Score: -175  P-value: .20
+Homolog: VWFNGIATNFEKKTWMNQQA  Homolog Score: -175  P-value: .20
+Homolog: KKTWMNQQARTWIKWFRQCV  Homolog Score: -175  P-value: .20
+Homolog: MKIFWAYNHDPIGQWQSEAT  Homolog Score: -175  P-value: .20
+Homolog: PHDQVPNDPSPTCFRMVDFN  Homolog Score: -175  P-value: .20
+Homolog: FGVPNSWTYMNYFNYIKNWD  Homolog Score: -175  P-value: .20
+Homolog: MSAWGCVYFSRIGWVNKCIV  Homolog Score: -175  P-value: .20
+Homolog: WSWAFSPHLHANELVSPGFK  Homolog Score: -175  P-value: .20
+Homolog: SHDWKFGEMRCFEVWNGVEY  Homolog Score: -175  P-value: .20
+Homolog: WNNPWPKNWRSGWLECICQC  Homolog Score: -175  P-value: .20
+Homolog: WPKNWRSGWLECICQCKFWT  Homolog Score: -175  P-value: .20
+Homolog: IHHFSLLYTIASEDQFNHRK  Homolog Score: -175  P-value: .20
+Homolog: YMSLSPGAVPVLCQSPNRYG  Homolog Score: -175  P-value: .20
+Homolog: PVLCQSPNRYGSNGCIKHRY  Homolog Score: -175  P-value: .20
+Homolog: VMLDPLIHFTQHDYAPMNHC  Homolog Score: -175  P-value: .20
+Homolog: LDPLIHFTQHDYAPMNHCTS  Homolog Score: -175  P-value: .20
+Homolog: LMRDKRVVCHNSKCQKDQGT  Homolog Score: -175  P-value: .20
+Homolog: GTSGIQSRNNECHRQSCAYI  Homolog Score: -175  P-value: .20
+Homolog: CHRQSCAYIWWFNNSFCITH  Homolog Score: -175  P-value: .20
+Homolog: SCAYIWWFNNSFCITHTKAN  Homolog Score: -175  P-value: .20
+Homolog: CITHTKANCCCYTSQQLYRT  Homolog Score: -175  P-value: .20
+Homolog: CCYTSQQLYRTSQWNLGTKK  Homolog Score: -175  P-value: .20
+Homolog: QQLYRTSQWNLGTKKRIYPK  Homolog Score: -175  P-value: .20
+Homolog: NLGTKKRIYPKLDPAHENTN  Homolog Score: -175  P-value: .20
+Homolog: HKILIRYEKTNGMWIWMSWW  Homolog Score: -175  P-value: .20
+Homolog: SWKLETWLKRTLRFSFNGPV  Homolog Score: -175  P-value: .20
+Homolog: ETWLKRTLRFSFNGPVRKMS  Homolog Score: -175  P-value: .20
+Homolog: TLRFSFNGPVRKMSEHLRYP  Homolog Score: -175  P-value: .20
+Homolog: GGALYIFEAYDDMITMILEE  Homolog Score: -175  P-value: .20
+Homolog: DDMITMILEEHAQTCMKLVE  Homolog Score: -175  P-value: .20
+Homolog: MCWCQAIDRKMYHYTFDYEA  Homolog Score: -175  P-value: .20
+Homolog: KQTPMFESSWYPVYQHILPT  Homolog Score: -175  P-value: .20
+Homolog: HILPTCMDMRNMIHGSYVMR  Homolog Score: -175  P-value: .20
+Homolog: CVDQENLLCPSEMTEGHEPC  Homolog Score: -175  P-value: .20
+Homolog: CPKLLLPHISDIQMDLDWTC  Homolog Score: -174  P-value: .20
+Homolog: RCESSFGVGTGTFKPTTCHP  Homolog Score: -174  P-value: .20
+Homolog: PASVFYLTFKQIHTGLPAKR  Homolog Score: -174  P-value: .20
+Homolog: TGLPAKRGMDQDLTKGAPYL  Homolog Score: -174  P-value: .20
+Homolog: GMDQDLTKGAPYLVEEKWMQ  Homolog Score: -174  P-value: .20
+Homolog: MDQDLTKGAPYLVEEKWMQQ  Homolog Score: -174  P-value: .20
+Homolog: LVEEKWMQQPEGTQKPMEIM  Homolog Score: -174  P-value: .20
+Homolog: EGTQKPMEIMKPQENGEAVT  Homolog Score: -174  P-value: .20
+Homolog: TSRSHNDRGMYAFEANYKAQ  Homolog Score: -174  P-value: .20
+Homolog: KTWMNQQARTWIKWFRQCVF  Homolog Score: -174  P-value: .20
+Homolog: WMNQQARTWIKWFRQCVFYV  Homolog Score: -174  P-value: .20
+Homolog: QARTWIKWFRQCVFYVRIKE  Homolog Score: -174  P-value: .20
+Homolog: IFWAYNHDPIGQWQSEATMP  Homolog Score: -174  P-value: .20
+Homolog: AYNHDPIGQWQSEATMPRPT  Homolog Score: -174  P-value: .20
+Homolog: PFGVPNSWTYMNYFNYIKNW  Homolog Score: -174  P-value: .20
+Homolog: IKNWDHVVLLMDRWNVHHHY  Homolog Score: -174  P-value: .20
+Homolog: MDRWNVHHHYMSAWGCVYFS  Homolog Score: -174  P-value: .20
+Homolog: STIDPNHMNCSNMGSTWSWA  Homolog Score: -174  P-value: .30
+Homolog: HMNCSNMGSTWSWAFSPHLH  Homolog Score: -174  P-value: .30
+Homolog: ICMAWIDGSHDWKFGEMRCF  Homolog Score: -174  P-value: .30
+Homolog: FEVWNGVEYSLKVFHHEWNN  Homolog Score: -174  P-value: .30
+Homolog: HHEWNNPWPKNWRSGWLECI  Homolog Score: -174  P-value: .30
+Homolog: ECICQCKFWTCHCQLYDNHY  Homolog Score: -174  P-value: .30
+Homolog: LLYTIASEDQFNHRKWKWTM  Homolog Score: -174  P-value: .30
+Homolog: LYTIASEDQFNHRKWKWTMQ  Homolog Score: -174  P-value: .30
+Homolog: LCQSPNRYGSNGCIKHRYWA  Homolog Score: -174  P-value: .30
+Homolog: SNGCIKHRYWADVMLDPLIH  Homolog Score: -174  P-value: .30
+Homolog: CTSGMYWKQKRCHAHLMRDK  Homolog Score: -174  P-value: .30
+Homolog: GMYWKQKRCHAHLMRDKRVV  Homolog Score: -174  P-value: .30
+Homolog: QGTSGIQSRNNECHRQSCAY  Homolog Score: -174  P-value: .30
+Homolog: ITHTKANCCCYTSQQLYRTS  Homolog Score: -174  P-value: .30
+Homolog: YTSQQLYRTSQWNLGTKKRI  Homolog Score: -174  P-value: .30
+Homolog: YRTSQWNLGTKKRIYPKLDP  Homolog Score: -174  P-value: .30
+Homolog: FILHAMAMMKTSYEDAAHKI  Homolog Score: -174  P-value: .30
+Homolog: LHAMAMMKTSYEDAAHKILI  Homolog Score: -174  P-value: .30
+Homolog: SLEIFFWWSWKLETWLKRTL  Homolog Score: -174  P-value: .30
+Homolog: IFFWWSWKLETWLKRTLRFS  Homolog Score: -174  P-value: .30
+Homolog: FSFNGPVRKMSEHLRYPQYE  Homolog Score: -174  P-value: .30
+Homolog: KMSEHLRYPQYEGFFFLHDM  Homolog Score: -174  P-value: .30
+Homolog: FFFLHDMTARGGALYIFEAY  Homolog Score: -174  P-value: .30
+Homolog: TARGGALYIFEAYDDMITMI  Homolog Score: -174  P-value: .30
+Homolog: ARGGALYIFEAYDDMITMIL  Homolog Score: -174  P-value: .30
+Homolog: RGGALYIFEAYDDMITMILE  Homolog Score: -174  P-value: .30
+Homolog: EEHAQTCMKLVELVLCNTVH  Homolog Score: -174  P-value: .30
+Homolog: AQTCMKLVELVLCNTVHCQY  Homolog Score: -174  P-value: .30
+Homolog: VELVLCNTVHCQYNAYMMCW  Homolog Score: -174  P-value: .30
+Homolog: VLCNTVHCQYNAYMMCWCQA  Homolog Score: -174  P-value: .30
+Homolog: NTVHCQYNAYMMCWCQAIDR  Homolog Score: -174  P-value: .30
+Homolog: MFESSWYPVYQHILPTCMDM  Homolog Score: -174  P-value: .30
+Homolog: SSWYPVYQHILPTCMDMRNM  Homolog Score: -174  P-value: .30
+Homolog: ILPTCMDMRNMIHGSYVMRH  Homolog Score: -174  P-value: .30
+Homolog: DWTCTIRCESSFGVGTGTFK  Homolog Score: -173  P-value: .30
+Homolog: PNVGPVPKVPRAYDPAVLNC  Homolog Score: -173  P-value: .30
+Homolog: NVGPVPKVPRAYDPAVLNCC  Homolog Score: -173  P-value: .30
+Homolog: CCNVIFIPASVFYLTFKQIH  Homolog Score: -173  P-value: .30
+Homolog: DLTKGAPYLVEEKWMQQPEG  Homolog Score: -173  P-value: .30
+Homolog: PMEIMKPQENGEAVTVKFPD  Homolog Score: -173  P-value: .30
+Homolog: YEYGEPKDPKNPLPPNYACL  Homolog Score: -173  P-value: .30
+Homolog: DPKNPLPPNYACLKYIFPNV  Homolog Score: -173  P-value: .30
+Homolog: NVVWFNGIATNFEKKTWMNQ  Homolog Score: -173  P-value: .30
+Homolog: FEKKTWMNQQARTWIKWFRQ  Homolog Score: -173  P-value: .30
+Homolog: KEWIISCHTVKRKHRDRWDF  Homolog Score: -173  P-value: .30
+Homolog: WIISCHTVKRKHRDRWDFYQ  Homolog Score: -173  P-value: .30
+Homolog: SCHTVKRKHRDRWDFYQCTD  Homolog Score: -173  P-value: .30
+Homolog: LSLRQSIGAPFGVPNSWTYM  Homolog Score: -173  P-value: .30
+Homolog: CWAGIKYDHTSEYYDMPYAM  Homolog Score: -173  P-value: .30
+Homolog: DGSHDWKFGEMRCFEVWNGV  Homolog Score: -173  P-value: .30
+Homolog: EVWNGVEYSLKVFHHEWNNP  Homolog Score: -173  P-value: .30
+Homolog: GVEYSLKVFHHEWNNPWPKN  Homolog Score: -173  P-value: .30
+Homolog: PKNWRSGWLECICQCKFWTC  Homolog Score: -173  P-value: .30
+Homolog: YMPEGWMTSIHHFSLLYTIA  Homolog Score: -173  P-value: .30
+Homolog: SLSPGAVPVLCQSPNRYGSN  Homolog Score: -173  P-value: .30
+Homolog: QSPNRYGSNGCIKHRYWADV  Homolog Score: -173  P-value: .30
+Homolog: DPLIHFTQHDYAPMNHCTSG  Homolog Score: -173  P-value: .30
+Homolog: DYAPMNHCTSGMYWKQKRCH  Homolog Score: -173  P-value: .30
+Homolog: WKQKRCHAHLMRDKRVVCHN  Homolog Score: -173  P-value: .30
+Homolog: TKKRIYPKLDPAHENTNMTE  Homolog Score: -173  P-value: .30
+Homolog: TNGMWIWMSWWVKVSWTWDS  Homolog Score: -173  P-value: .30
+Homolog: WDSVMLMYYHESLEIFFWWS  Homolog Score: -173  P-value: .30
+Homolog: LKRTLRFSFNGPVRKMSEHL  Homolog Score: -173  P-value: .30
+Homolog: LRYPQYEGFFFLHDMTARGG  Homolog Score: -173  P-value: .30
+Homolog: VHCQYNAYMMCWCQAIDRKM  Homolog Score: -173  P-value: .30
+Homolog: YMMCWCQAIDRKMYHYTFDY  Homolog Score: -173  P-value: .30
+Homolog: DYEANHGSYKTYTANQQPRC  Homolog Score: -173  P-value: .30
+Homolog: EANHGSYKTYTANQQPRCFA  Homolog Score: -173  P-value: .30
+Homolog: NHGSYKTYTANQQPRCFACI  Homolog Score: -173  P-value: .30
+Homolog: YQHILPTCMDMRNMIHGSYV  Homolog Score: -173  P-value: .30
+Homolog: NMIHGSYVMRHFLMKQCVDQ  Homolog Score: -173  P-value: .30
+Homolog: MRHFLMKQCVDQENLLCPSE  Homolog Score: -173  P-value: .30
+Homolog: TTCHPNVGPVPKVPRAYDPA  Homolog Score: -172  P-value: .30
+Homolog: FIPASVFYLTFKQIHTGLPA  Homolog Score: -172  P-value: .30
+Homolog: IPASVFYLTFKQIHTGLPAK  Homolog Score: -172  P-value: .30
+Homolog: SVFYLTFKQIHTGLPAKRGM  Homolog Score: -172  P-value: .30
+Homolog: GTQKPMEIMKPQENGEAVTV  Homolog Score: -172  P-value: .30
+Homolog: HPVKFQVMKYEYGEPKDPKN  Homolog Score: -172  P-value: .30
+Homolog: EYGEPKDPKNPLPPNYACLK  Homolog Score: -172  P-value: .30
+Homolog: MNQQARTWIKWFRQCVFYVR  Homolog Score: -172  P-value: .30
+Homolog: TWIKWFRQCVFYVRIKEWII  Homolog Score: -172  P-value: .30
+Homolog: VRIKEWIISCHTVKRKHRDR  Homolog Score: -172  P-value: .30
+Homolog: EWIISCHTVKRKHRDRWDFY  Homolog Score: -172  P-value: .30
+Homolog: TVKRKHRDRWDFYQCTDWKM  Homolog Score: -172  P-value: .30
+Homolog: DRWDFYQCTDWKMKIFWAYN  Homolog Score: -172  P-value: .30
+Homolog: WDFYQCTDWKMKIFWAYNHD  Homolog Score: -172  P-value: .30
+Homolog: YQCTDWKMKIFWAYNHDPIG  Homolog Score: -172  P-value: .30
+Homolog: HDPIGQWQSEATMPRPTRFG  Homolog Score: -172  P-value: .30
+Homolog: QWQSEATMPRPTRFGFTAFH  Homolog Score: -172  P-value: .30
+Homolog: RPTRFGFTAFHAVECNIPHD  Homolog Score: -172  P-value: .30
+Homolog: TRFGFTAFHAVECNIPHDQV  Homolog Score: -172  P-value: .30
+Homolog: PNDPSPTCFRMVDFNVCAEY  Homolog Score: -172  P-value: .30
+Homolog: NDPSPTCFRMVDFNVCAEYM  Homolog Score: -172  P-value: .30
+Homolog: LMDRWNVHHHYMSAWGCVYF  Homolog Score: -172  P-value: .30
+Homolog: WVNKCIVNFCWAGIKYDHTS  Homolog Score: -172  P-value: .30
+Homolog: FSPHLHANELVSPGFKPTKI  Homolog Score: -172  P-value: .30
+Homolog: KPTKICMAWIDGSHDWKFGE  Homolog Score: -172  P-value: .30
+Homolog: KFGEMRCFEVWNGVEYSLKV  Homolog Score: -172  P-value: .30
+Homolog: CFEVWNGVEYSLKVFHHEWN  Homolog Score: -172  P-value: .30
+Homolog: WNGVEYSLKVFHHEWNNPWP  Homolog Score: -172  P-value: .30
+Homolog: SGWLECICQCKFWTCHCQLY  Homolog Score: -172  P-value: .30
+Homolog: CHCQLYDNHYMPEGWMTSIH  Homolog Score: -172  P-value: .30
+Homolog: LYDNHYMPEGWMTSIHHFSL  Homolog Score: -172  P-value: .30
+Homolog: EDQFNHRKWKWTMQHMGSCE  Homolog Score: -172  P-value: .30
+Homolog: NHRKWKWTMQHMGSCEYMSL  Homolog Score: -172  P-value: .30
+Homolog: KWKWTMQHMGSCEYMSLSPG  Homolog Score: -172  P-value: .30
+Homolog: VLCQSPNRYGSNGCIKHRYW  Homolog Score: -172  P-value: .30
+Homolog: YGSNGCIKHRYWADVMLDPL  Homolog Score: -172  P-value: .30
+Homolog: MNHCTSGMYWKQKRCHAHLM  Homolog Score: -172  P-value: .30
+Homolog: IQSRNNECHRQSCAYIWWFN  Homolog Score: -172  P-value: .30
+Homolog: HRQSCAYIWWFNNSFCITHT  Homolog Score: -172  P-value: .30
+Homolog: TSQQLYRTSQWNLGTKKRIY  Homolog Score: -172  P-value: .30
+Homolog: KLDPAHENTNMTENFILHAM  Homolog Score: -172  P-value: .30
+Homolog: RYEKTNGMWIWMSWWVKVSW  Homolog Score: -172  P-value: .30
+Homolog: MWIWMSWWVKVSWTWDSVML  Homolog Score: -172  P-value: .30
+Homolog: WMSWWVKVSWTWDSVMLMYY  Homolog Score: -172  P-value: .30
+Homolog: SWTWDSVMLMYYHESLEIFF  Homolog Score: -172  P-value: .30
+Homolog: SFNGPVRKMSEHLRYPQYEG  Homolog Score: -172  P-value: .30
+Homolog: MILEEHAQTCMKLVELVLCN  Homolog Score: -172  P-value: .30
+Homolog: TCMKLVELVLCNTVHCQYNA  Homolog Score: -172  P-value: .30
+Homolog: CWCQAIDRKMYHYTFDYEAN  Homolog Score: -172  P-value: .30
+Homolog: RKMYHYTFDYEANHGSYKTY  Homolog Score: -172  P-value: .30
+Homolog: KTYTANQQPRCFACIIEMAC  Homolog Score: -172  P-value: .30
+Homolog: ACIIEMACASDKKQTPMFES  Homolog Score: -172  P-value: .30
+Homolog: MIHGSYVMRHFLMKQCVDQE  Homolog Score: -172  P-value: .30
+Homolog: FLMKQCVDQENLLCPSEMTE  Homolog Score: -172  P-value: .30
+Homolog: DIQMDLDWTCTIRCESSFGV  Homolog Score: -171  P-value: .30
+Homolog: ESSFGVGTGTFKPTTCHPNV  Homolog Score: -171  P-value: .30
+Homolog: GPVPKVPRAYDPAVLNCCNV  Homolog Score: -171  P-value: .30
+Homolog: AYDPAVLNCCNVIFIPASVF  Homolog Score: -171  P-value: .30
+Homolog: SHNDRGMYAFEANYKAQLHP  Homolog Score: -171  P-value: .30
+Homolog: EKKTWMNQQARTWIKWFRQC  Homolog Score: -171  P-value: .30
+Homolog: RFGFTAFHAVECNIPHDQVP  Homolog Score: -171  P-value: .30
+Homolog: VECNIPHDQVPNDPSPTCFR  Homolog Score: -171  P-value: .30
+Homolog: WTYMNYFNYIKNWDHVVLLM  Homolog Score: -171  P-value: .30
+Homolog: VLLMDRWNVHHHYMSAWGCV  Homolog Score: -171  P-value: .30
+Homolog: WGCVYFSRIGWVNKCIVNFC  Homolog Score: -171  P-value: .30
+Homolog: PYAMDDESTIDPNHMNCSNM  Homolog Score: -171  P-value: .30
+Homolog: AMDDESTIDPNHMNCSNMGS  Homolog Score: -171  P-value: .30
+Homolog: GSTWSWAFSPHLHANELVSP  Homolog Score: -171  P-value: .30
+Homolog: WKFGEMRCFEVWNGVEYSLK  Homolog Score: -171  P-value: .30
+Homolog: HEWNNPWPKNWRSGWLECIC  Homolog Score: -171  P-value: .30
+Homolog: EGWMTSIHHFSLLYTIASED  Homolog Score: -171  P-value: .30
+Homolog: SEDQFNHRKWKWTMQHMGSC  Homolog Score: -171  P-value: .30
+Homolog: DQFNHRKWKWTMQHMGSCEY  Homolog Score: -171  P-value: .30
+Homolog: GSNGCIKHRYWADVMLDPLI  Homolog Score: -171  P-value: .30
+Homolog: ADVMLDPLIHFTQHDYAPMN  Homolog Score: -171  P-value: .30
+Homolog: VVCHNSKCQKDQGTSGIQSR  Homolog Score: -171  P-value: .30
+Homolog: WWFNNSFCITHTKANCCCYT  Homolog Score: -171  P-value: .30
+Homolog: SFCITHTKANCCCYTSQQLY  Homolog Score: -171  P-value: .30
+Homolog: NMTENFILHAMAMMKTSYED  Homolog Score: -171  P-value: .30
+Homolog: YEKTNGMWIWMSWWVKVSWT  Homolog Score: -171  P-value: .30
+Homolog: IWMSWWVKVSWTWDSVMLMY  Homolog Score: -171  P-value: .30
+Homolog: YEGFFFLHDMTARGGALYIF  Homolog Score: -171  P-value: .30
+Homolog: DMITMILEEHAQTCMKLVEL  Homolog Score: -171  P-value: .30
+Homolog: YKTYTANQQPRCFACIIEMA  Homolog Score: -171  P-value: .30
+Homolog: TYTANQQPRCFACIIEMACA  Homolog Score: -171  P-value: .30
+Homolog: PVYQHILPTCMDMRNMIHGS  Homolog Score: -171  P-value: .30
+Homolog: PRAYDPAVLNCCNVIFIPAS  Homolog Score: -170  P-value: .30
+Homolog: KQIHTGLPAKRGMDQDLTKG  Homolog Score: -170  P-value: .30
+Homolog: FEANYKAQLHPVKFQVMKYE  Homolog Score: -170  P-value: .30
+Homolog: NQQARTWIKWFRQCVFYVRI  Homolog Score: -170  P-value: .30
+Homolog: HRDRWDFYQCTDWKMKIFWA  Homolog Score: -170  P-value: .30
+Homolog: MPRPTRFGFTAFHAVECNIP  Homolog Score: -170  P-value: .30
+Homolog: GFTAFHAVECNIPHDQVPND  Homolog Score: -170  P-value: .30
+Homolog: ECNIPHDQVPNDPSPTCFRM  Homolog Score: -170  P-value: .30
+Homolog: VCAEYMILSLRQSIGAPFGV  Homolog Score: -170  P-value: .30
+Homolog: VPNSWTYMNYFNYIKNWDHV  Homolog Score: -170  P-value: .30
+Homolog: DHVVLLMDRWNVHHHYMSAW  Homolog Score: -170  P-value: .30
+Homolog: VVLLMDRWNVHHHYMSAWGC  Homolog Score: -170  P-value: .30
+Homolog: GCVYFSRIGWVNKCIVNFCW  Homolog Score: -170  P-value: .30
+Homolog: TSEYYDMPYAMDDESTIDPN  Homolog Score: -170  P-value: .30
+Homolog: MDDESTIDPNHMNCSNMGST  Homolog Score: -170  P-value: .30
+Homolog: MGSTWSWAFSPHLHANELVS  Homolog Score: -170  P-value: .30
+Homolog: TWSWAFSPHLHANELVSPGF  Homolog Score: -170  P-value: .30
+Homolog: TKICMAWIDGSHDWKFGEMR  Homolog Score: -170  P-value: .30
+Homolog: WIDGSHDWKFGEMRCFEVWN  Homolog Score: -170  P-value: .30
+Homolog: NWRSGWLECICQCKFWTCHC  Homolog Score: -170  P-value: .30
+Homolog: WRSGWLECICQCKFWTCHCQ  Homolog Score: -170  P-value: .30
+Homolog: TMQHMGSCEYMSLSPGAVPV  Homolog Score: -170  P-value: .30
+Homolog: WADVMLDPLIHFTQHDYAPM  Homolog Score: -170  P-value: .30
+Homolog: CHAHLMRDKRVVCHNSKCQK  Homolog Score: -170  P-value: .30
+Homolog: TKANCCCYTSQQLYRTSQWN  Homolog Score: -170  P-value: .30
+Homolog: SQQLYRTSQWNLGTKKRIYP  Homolog Score: -170  P-value: .30
+Homolog: AMMKTSYEDAAHKILIRYEK  Homolog Score: -170  P-value: .30
+Homolog: PQYEGFFFLHDMTARGGALY  Homolog Score: -170  P-value: .30
+Homolog: HCQYNAYMMCWCQAIDRKMY  Homolog Score: -170  P-value: .30
+Homolog: AYMMCWCQAIDRKMYHYTFD  Homolog Score: -170  P-value: .30
+Homolog: GSYKTYTANQQPRCFACIIE  Homolog Score: -170  P-value: .30
+Homolog: DLDWTCTIRCESSFGVGTGT  Homolog Score: -169  P-value: .30
+Homolog: LDWTCTIRCESSFGVGTGTF  Homolog Score: -169  P-value: .30
+Homolog: VPKVPRAYDPAVLNCCNVIF  Homolog Score: -169  P-value: .30
+Homolog: PAVLNCCNVIFIPASVFYLT  Homolog Score: -169  P-value: .30
+Homolog: GEPKDPKNPLPPNYACLKYI  Homolog Score: -169  P-value: .30
+Homolog: LKYIFPNVVWFNGIATNFEK  Homolog Score: -169  P-value: .30
+Homolog: NGIATNFEKKTWMNQQARTW  Homolog Score: -169  P-value: .30
+Homolog: WKMKIFWAYNHDPIGQWQSE  Homolog Score: -169  P-value: .30
+Homolog: FWAYNHDPIGQWQSEATMPR  Homolog Score: -169  P-value: .30
+Homolog: QSEATMPRPTRFGFTAFHAV  Homolog Score: -169  P-value: .30
+Homolog: SPTCFRMVDFNVCAEYMILS  Homolog Score: -169  P-value: .30
+Homolog: YMILSLRQSIGAPFGVPNSW  Homolog Score: -169  P-value: .30
+Homolog: DRWNVHHHYMSAWGCVYFSR  Homolog Score: -169  P-value: .30
+Homolog: HYMSAWGCVYFSRIGWVNKC  Homolog Score: -169  P-value: .30
+Homolog: IGWVNKCIVNFCWAGIKYDH  Homolog Score: -169  P-value: .30
+Homolog: DDESTIDPNHMNCSNMGSTW  Homolog Score: -169  P-value: .30
+Homolog: LHANELVSPGFKPTKICMAW  Homolog Score: -169  P-value: .30
+Homolog: SPGFKPTKICMAWIDGSHDW  Homolog Score: -169  P-value: .30
+Homolog: EWNNPWPKNWRSGWLECICQ  Homolog Score: -169  P-value: .30
+Homolog: NPWPKNWRSGWLECICQCKF  Homolog Score: -169  P-value: .30
+Homolog: MSLSPGAVPVLCQSPNRYGS  Homolog Score: -169  P-value: .30
+Homolog: DVMLDPLIHFTQHDYAPMNH  Homolog Score: -169  P-value: .30
+Homolog: SGMYWKQKRCHAHLMRDKRV  Homolog Score: -169  P-value: .30
+Homolog: DKRVVCHNSKCQKDQGTSGI  Homolog Score: -169  P-value: .30
+Homolog: NECHRQSCAYIWWFNNSFCI  Homolog Score: -169  P-value: .30
+Homolog: AYIWWFNNSFCITHTKANCC  Homolog Score: -169  P-value: .30
+Homolog: WFNNSFCITHTKANCCCYTS  Homolog Score: -169  P-value: .30
+Homolog: IYPKLDPAHENTNMTENFIL  Homolog Score: -169  P-value: .30
+Homolog: ILHAMAMMKTSYEDAAHKIL  Homolog Score: -169  P-value: .30
+Homolog: SYEDAAHKILIRYEKTNGMW  Homolog Score: -169  P-value: .30
+Homolog: WVKVSWTWDSVMLMYYHESL  Homolog Score: -169  P-value: .30
+Homolog: VSWTWDSVMLMYYHESLEIF  Homolog Score: -169  P-value: .30
+Homolog: LVLCNTVHCQYNAYMMCWCQ  Homolog Score: -169  P-value: .30
+Homolog: ANHGSYKTYTANQQPRCFAC  Homolog Score: -169  P-value: .30
+Homolog: VDQENLLCPSEMTEGHEPCQ  Homolog Score: -169  P-value: .30
+Homolog: PKLLLPHISDIQMDLDWTCT  Homolog Score: -168  P-value: .30
+Homolog: VGPVPKVPRAYDPAVLNCCN  Homolog Score: -168  P-value: .30
+Homolog: GAPYLVEEKWMQQPEGTQKP  Homolog Score: -168  P-value: .30
+Homolog: QQPEGTQKPMEIMKPQENGE  Homolog Score: -168  P-value: .30
+Homolog: QKPMEIMKPQENGEAVTVKF  Homolog Score: -168  P-value: .30
+Homolog: EIMKPQENGEAVTVKFPDRL  Homolog Score: -168  P-value: .30
+Homolog: ISMDSNYWLTSRSHNDRGMY  Homolog Score: -168  P-value: .30
+Homolog: AFEANYKAQLHPVKFQVMKY  Homolog Score: -168  P-value: .30
+Homolog: KFQVMKYEYGEPKDPKNPLP  Homolog Score: -168  P-value: .30
+Homolog: FHAVECNIPHDQVPNDPSPT  Homolog Score: -168  P-value: .30
+Homolog: HDQVPNDPSPTCFRMVDFNV  Homolog Score: -168  P-value: .30
+Homolog: VPNDPSPTCFRMVDFNVCAE  Homolog Score: -168  P-value: .30
+Homolog: ESTIDPNHMNCSNMGSTWSW  Homolog Score: -168  P-value: .30
+Homolog: MNCSNMGSTWSWAFSPHLHA  Homolog Score: -168  P-value: .30
+Homolog: QCKFWTCHCQLYDNHYMPEG  Homolog Score: -168  P-value: .30
+Homolog: KFWTCHCQLYDNHYMPEGWM  Homolog Score: -168  P-value: .30
+Homolog: SPGAVPVLCQSPNRYGSNGC  Homolog Score: -168  P-value: .30
+Homolog: HCTSGMYWKQKRCHAHLMRD  Homolog Score: -168  P-value: .30
+Homolog: GIQSRNNECHRQSCAYIWWF  Homolog Score: -168  P-value: .30
+Homolog: SRNNECHRQSCAYIWWFNNS  Homolog Score: -168  P-value: .30
+Homolog: WNLGTKKRIYPKLDPAHENT  Homolog Score: -168  P-value: .30
+Homolog: PAHENTNMTENFILHAMAMM  Homolog Score: -168  P-value: .30
+Homolog: AHENTNMTENFILHAMAMMK  Homolog Score: -168  P-value: .30
+Homolog: KLETWLKRTLRFSFNGPVRK  Homolog Score: -168  P-value: .30
+Homolog: YPQYEGFFFLHDMTARGGAL  Homolog Score: -168  P-value: .30
+Homolog: GFFFLHDMTARGGALYIFEA  Homolog Score: -168  P-value: .30
+Homolog: NAYMMCWCQAIDRKMYHYTF  Homolog Score: -168  P-value: .30
+Homolog: YHYTFDYEANHGSYKTYTAN  Homolog Score: -168  P-value: .30
+Homolog: IEMACASDKKQTPMFESSWY  Homolog Score: -168  P-value: .30
+Homolog: YPVYQHILPTCMDMRNMIHG  Homolog Score: -168  P-value: .30
+Homolog: YVMRHFLMKQCVDQENLLCP  Homolog Score: -168  P-value: .30
+Homolog: TGTFKPTTCHPNVGPVPKVP  Homolog Score: -167  P-value: .30
+Homolog: TFKPTTCHPNVGPVPKVPRA  Homolog Score: -167  P-value: .30
+Homolog: GEAVTVKFPDRLDISMDSNY  Homolog Score: -167  P-value: .30
+Homolog: WLTSRSHNDRGMYAFEANYK  Homolog Score: -167  P-value: .30
+Homolog: CLKYIFPNVVWFNGIATNFE  Homolog Score: -167  P-value: .30
+Homolog: ATNFEKKTWMNQQARTWIKW  Homolog Score: -167  P-value: .30
+Homolog: ARTWIKWFRQCVFYVRIKEW  Homolog Score: -167  P-value: .30
+Homolog: CVFYVRIKEWIISCHTVKRK  Homolog Score: -167  P-value: .30
+Homolog: SEATMPRPTRFGFTAFHAVE  Homolog Score: -167  P-value: .30
+Homolog: FTAFHAVECNIPHDQVPNDP  Homolog Score: -167  P-value: .30
+Homolog: LLMDRWNVHHHYMSAWGCVY  Homolog Score: -167  P-value: .30
+Homolog: WTMQHMGSCEYMSLSPGAVP  Homolog Score: -167  P-value: .30
+Homolog: NRYGSNGCIKHRYWADVMLD  Homolog Score: -167  P-value: .30
+Homolog: RYGSNGCIKHRYWADVMLDP  Homolog Score: -167  P-value: .30
+Homolog: HRYWADVMLDPLIHFTQHDY  Homolog Score: -167  P-value: .30
+Homolog: HFTQHDYAPMNHCTSGMYWK  Homolog Score: -167  P-value: .30
+Homolog: KQKRCHAHLMRDKRVVCHNS  Homolog Score: -167  P-value: .30
+Homolog: DQGTSGIQSRNNECHRQSCA  Homolog Score: -167  P-value: .30
+Homolog: KRIYPKLDPAHENTNMTENF  Homolog Score: -167  P-value: .30
+Homolog: VKVSWTWDSVMLMYYHESLE  Homolog Score: -167  P-value: .30
+Homolog: EHAQTCMKLVELVLCNTVHC  Homolog Score: -167  P-value: .30
+Homolog: QTCMKLVELVLCNTVHCQYN  Homolog Score: -167  P-value: .30
+Homolog: LCNTVHCQYNAYMMCWCQAI  Homolog Score: -167  P-value: .30
+Homolog: CFACIIEMACASDKKQTPMF  Homolog Score: -167  P-value: .30
+Homolog: LLPHISDIQMDLDWTCTIRC  Homolog Score: -166  P-value: .30
+Homolog: FGVGTGTFKPTTCHPNVGPV  Homolog Score: -166  P-value: .30
+Homolog: YDPAVLNCCNVIFIPASVFY  Homolog Score: -166  P-value: .30
+Homolog: YLTFKQIHTGLPAKRGMDQD  Homolog Score: -166  P-value: .30
+Homolog: KRGMDQDLTKGAPYLVEEKW  Homolog Score: -166  P-value: .30
+Homolog: DQDLTKGAPYLVEEKWMQQP  Homolog Score: -166  P-value: .30
+Homolog: AVTVKFPDRLDISMDSNYWL  Homolog Score: -166  P-value: .30
+Homolog: LHPVKFQVMKYEYGEPKDPK  Homolog Score: -166  P-value: .30
+Homolog: KDPKNPLPPNYACLKYIFPN  Homolog Score: -166  P-value: .30
+Homolog: DPIGQWQSEATMPRPTRFGF  Homolog Score: -166  P-value: .30
+Homolog: TMPRPTRFGFTAFHAVECNI  Homolog Score: -166  P-value: .30
+Homolog: QVPNDPSPTCFRMVDFNVCA  Homolog Score: -166  P-value: .30
+Homolog: FRMVDFNVCAEYMILSLRQS  Homolog Score: -166  P-value: .30
+Homolog: DPNHMNCSNMGSTWSWAFSP  Homolog Score: -166  P-value: .30
+Homolog: PNHMNCSNMGSTWSWAFSPH  Homolog Score: -166  P-value: .30
+Homolog: NHMNCSNMGSTWSWAFSPHL  Homolog Score: -166  P-value: .30
+Homolog: STWSWAFSPHLHANELVSPG  Homolog Score: -166  P-value: .30
+Homolog: AWIDGSHDWKFGEMRCFEVW  Homolog Score: -166  P-value: .30
+Homolog: TCHCQLYDNHYMPEGWMTSI  Homolog Score: -166  P-value: .30
+Homolog: LIHFTQHDYAPMNHCTSGMY  Homolog Score: -166  P-value: .30
+Homolog: NHCTSGMYWKQKRCHAHLMR  Homolog Score: -166  P-value: .30
+Homolog: KDQGTSGIQSRNNECHRQSC  Homolog Score: -166  P-value: .30
+Homolog: LIRYEKTNGMWIWMSWWVKV  Homolog Score: -166  P-value: .30
+Homolog: SWWVKVSWTWDSVMLMYYHE  Homolog Score: -166  P-value: .30
+Homolog: RKMSEHLRYPQYEGFFFLHD  Homolog Score: -166  P-value: .30
+Homolog: EAYDDMITMILEEHAQTCMK  Homolog Score: -166  P-value: .30
+Homolog: SYKTYTANQQPRCFACIIEM  Homolog Score: -166  P-value: .30
+Homolog: TANQQPRCFACIIEMACASD  Homolog Score: -166  P-value: .30
+Homolog: ESSWYPVYQHILPTCMDMRN  Homolog Score: -166  P-value: .30
+Homolog: MDMRNMIHGSYVMRHFLMKQ  Homolog Score: -166  P-value: .30
+Homolog: TFKQIHTGLPAKRGMDQDLT  Homolog Score: -165  P-value: .30
+Homolog: QIHTGLPAKRGMDQDLTKGA  Homolog Score: -165  P-value: .30
+Homolog: EAVTVKFPDRLDISMDSNYW  Homolog Score: -165  P-value: .30
+Homolog: KFPDRLDISMDSNYWLTSRS  Homolog Score: -165  P-value: .30
+Homolog: EPKDPKNPLPPNYACLKYIF  Homolog Score: -165  P-value: .30
+Homolog: FPNVVWFNGIATNFEKKTWM  Homolog Score: -165  P-value: .30
+Homolog: WAYNHDPIGQWQSEATMPRP  Homolog Score: -165  P-value: .30
+Homolog: IGQWQSEATMPRPTRFGFTA  Homolog Score: -165  P-value: .30
+Homolog: IPHDQVPNDPSPTCFRMVDF  Homolog Score: -165  P-value: .30
+Homolog: CFRMVDFNVCAEYMILSLRQ  Homolog Score: -165  P-value: .30
+Homolog: TIDPNHMNCSNMGSTWSWAF  Homolog Score: -165  P-value: .30
+Homolog: CMAWIDGSHDWKFGEMRCFE  Homolog Score: -165  P-value: .30
+Homolog: MQHMGSCEYMSLSPGAVPVL  Homolog Score: -165  P-value: .30
+Homolog: MGSCEYMSLSPGAVPVLCQS  Homolog Score: -165  P-value: .30
+Homolog: EYMSLSPGAVPVLCQSPNRY  Homolog Score: -165  P-value: .30
+Homolog: VCHNSKCQKDQGTSGIQSRN  Homolog Score: -165  P-value: .30
+Homolog: KTNGMWIWMSWWVKVSWTWD  Homolog Score: -165  P-value: .30
+Homolog: NGMWIWMSWWVKVSWTWDSV  Homolog Score: -165  P-value: .30
+Homolog: LEIFFWWSWKLETWLKRTLR  Homolog Score: -165  P-value: .30
+Homolog: HDMTARGGALYIFEAYDDMI  Homolog Score: -165  P-value: .30
+Homolog: TVHCQYNAYMMCWCQAIDRK  Homolog Score: -165  P-value: .30
+Homolog: TFDYEANHGSYKTYTANQQP  Homolog Score: -165  P-value: .30
+Homolog: EMACASDKKQTPMFESSWYP  Homolog Score: -165  P-value: .30
+Homolog: LRRCPKLLLPHISDIQMDLD  Homolog Score: -164  P-value: .30
+Homolog: FKPTTCHPNVGPVPKVPRAY  Homolog Score: -164  P-value: .30
+Homolog: LNCCNVIFIPASVFYLTFKQ  Homolog Score: -164  P-value: .30
+Homolog: MQQPEGTQKPMEIMKPQENG  Homolog Score: -164  P-value: .30
+Homolog: MKPQENGEAVTVKFPDRLDI  Homolog Score: -164  P-value: .30
+Homolog: FPDRLDISMDSNYWLTSRSH  Homolog Score: -164  P-value: .30
+Homolog: DFYQCTDWKMKIFWAYNHDP  Homolog Score: -164  P-value: .30
+Homolog: PRPTRFGFTAFHAVECNIPH  Homolog Score: -164  P-value: .30
+Homolog: DMPYAMDDESTIDPNHMNCS  Homolog Score: -164  P-value: .30
+Homolog: NMGSTWSWAFSPHLHANELV  Homolog Score: -164  P-value: .30
+Homolog: SPHLHANELVSPGFKPTKIC  Homolog Score: -164  P-value: .30
+Homolog: IDGSHDWKFGEMRCFEVWNG  Homolog Score: -164  P-value: .30
+Homolog: MPEGWMTSIHHFSLLYTIAS  Homolog Score: -164  P-value: .30
+Homolog: YWADVMLDPLIHFTQHDYAP  Homolog Score: -164  P-value: .30
+Homolog: AHLMRDKRVVCHNSKCQKDQ  Homolog Score: -164  P-value: .30
+Homolog: ANCCCYTSQQLYRTSQWNLG  Homolog Score: -164  P-value: .30
+Homolog: TSYEDAAHKILIRYEKTNGM  Homolog Score: -164  P-value: .30
+Homolog: LETWLKRTLRFSFNGPVRKM  Homolog Score: -164  P-value: .30
+Homolog: HAQTCMKLVELVLCNTVHCQ  Homolog Score: -164  P-value: .30
+Homolog: ACASDKKQTPMFESSWYPVY  Homolog Score: -164  P-value: .30
+Homolog: TCMDMRNMIHGSYVMRHFLM  Homolog Score: -164  P-value: .30
+Homolog: VPRAYDPAVLNCCNVIFIPA  Homolog Score: -163  P-value: .30
+Homolog: AVLNCCNVIFIPASVFYLTF  Homolog Score: -163  P-value: .30
+Homolog: KRKHRDRWDFYQCTDWKMKI  Homolog Score: -163  P-value: .30
+Homolog: AVECNIPHDQVPNDPSPTCF  Homolog Score: -163  P-value: .30
+Homolog: VDFNVCAEYMILSLRQSIGA  Homolog Score: -163  P-value: .30
+Homolog: FNVCAEYMILSLRQSIGAPF  Homolog Score: -163  P-value: .30
+Homolog: TYMNYFNYIKNWDHVVLLMD  Homolog Score: -163  P-value: .30
+Homolog: SAWGCVYFSRIGWVNKCIVN  Homolog Score: -163  P-value: .30
+Homolog: AGIKYDHTSEYYDMPYAMDD  Homolog Score: -163  P-value: .30
+Homolog: GFKPTKICMAWIDGSHDWKF  Homolog Score: -163  P-value: .30
+Homolog: TIASEDQFNHRKWKWTMQHM  Homolog Score: -163  P-value: .30
+Homolog: AVPVLCQSPNRYGSNGCIKH  Homolog Score: -163  P-value: .30
+Homolog: MTENFILHAMAMMKTSYEDA  Homolog Score: -163  P-value: .30
+Homolog: WKLETWLKRTLRFSFNGPVR  Homolog Score: -163  P-value: .30
+Homolog: LRFSFNGPVRKMSEHLRYPQ  Homolog Score: -163  P-value: .30
+Homolog: EGFFFLHDMTARGGALYIFE  Homolog Score: -163  P-value: .30
+Homolog: WCQAIDRKMYHYTFDYEANH  Homolog Score: -163  P-value: .30
+Homolog: WYPVYQHILPTCMDMRNMIH  Homolog Score: -163  P-value: .30
+Homolog: GSYVMRHFLMKQCVDQENLL  Homolog Score: -163  P-value: .30
+Homolog: VGTGTFKPTTCHPNVGPVPK  Homolog Score: -162  P-value: .30
+Homolog: TCHPNVGPVPKVPRAYDPAV  Homolog Score: -162  P-value: .30
+Homolog: SMDSNYWLTSRSHNDRGMYA  Homolog Score: -162  P-value: .30
+Homolog: AFSPHLHANELVSPGFKPTK  Homolog Score: -162  P-value: .30
+Homolog: MRCFEVWNGVEYSLKVFHHE  Homolog Score: -162  P-value: .30
+Homolog: HCQLYDNHYMPEGWMTSIHH  Homolog Score: -162  P-value: .30
+Homolog: SIHHFSLLYTIASEDQFNHR  Homolog Score: -162  P-value: .30
+Homolog: YWKQKRCHAHLMRDKRVVCH  Homolog Score: -162  P-value: .30
+Homolog: KRVVCHNSKCQKDQGTSGIQ  Homolog Score: -162  P-value: .30
+Homolog: IHGSYVMRHFLMKQCVDQEN  Homolog Score: -162  P-value: .30
+Homolog: WFNGIATNFEKKTWMNQQAR  Homolog Score: -161  P-value: .30
+Homolog: DQVPNDPSPTCFRMVDFNVC  Homolog Score: -161  P-value: .30
+Homolog: LRQSIGAPFGVPNSWTYMNY  Homolog Score: -161  P-value: .30
+Homolog: GAPFGVPNSWTYMNYFNYIK  Homolog Score: -161  P-value: .30
+Homolog: SWTYMNYFNYIKNWDHVVLL  Homolog Score: -161  P-value: .30
+Homolog: DHTSEYYDMPYAMDDESTID  Homolog Score: -161  P-value: .30
+Homolog: KNWRSGWLECICQCKFWTCH  Homolog Score: -161  P-value: .30
+Homolog: IKHRYWADVMLDPLIHFTQH  Homolog Score: -161  P-value: .30
+Homolog: TSQWNLGTKKRIYPKLDPAH  Homolog Score: -161  P-value: .30
+Homolog: MMKTSYEDAAHKILIRYEKT  Homolog Score: -161  P-value: .30
+Homolog: FWWSWKLETWLKRTLRFSFN  Homolog Score: -161  P-value: .30
+Homolog: KQCVDQENLLCPSEMTEGHE  Homolog Score: -161  P-value: .30
+Homolog: LCPSEMTEGHEPCQPMDDLY  Homolog Score: -161  P-value: .30
+Homolog: HPNVGPVPKVPRAYDPAVLN  Homolog Score: -160  P-value: .30
+Homolog: ASVFYLTFKQIHTGLPAKRG  Homolog Score: -160  P-value: .30
+Homolog: KPMEIMKPQENGEAVTVKFP  Homolog Score: -160  P-value: .30
+Homolog: KPQENGEAVTVKFPDRLDIS  Homolog Score: -160  P-value: .30
+Homolog: KIFWAYNHDPIGQWQSEATM  Homolog Score: -160  P-value: .30
+Homolog: SNMGSTWSWAFSPHLHANEL  Homolog Score: -160  P-value: .30
+Homolog: PWPKNWRSGWLECICQCKFW  Homolog Score: -160  P-value: .30
+Homolog: WMTSIHHFSLLYTIASEDQF  Homolog Score: -160  P-value: .30
+Homolog: IRYEKTNGMWIWMSWWVKVS  Homolog Score: -160  P-value: .30
+Homolog: NGPVRKMSEHLRYPQYEGFF  Homolog Score: -160  P-value: .30
+Homolog: TPMFESSWYPVYQHILPTCM  Homolog Score: -160  P-value: .30
+Homolog: RRCPKLLLPHISDIQMDLDW  Homolog Score: -159  P-value: .30
+Homolog: SFGVGTGTFKPTTCHPNVGP  Homolog Score: -159  P-value: .30
+Homolog: GLPAKRGMDQDLTKGAPYLV  Homolog Score: -159  P-value: .30
+Homolog: TVKFPDRLDISMDSNYWLTS  Homolog Score: -159  P-value: .30
+Homolog: WFRQCVFYVRIKEWIISCHT  Homolog Score: -159  P-value: .30
+Homolog: ATMPRPTRFGFTAFHAVECN  Homolog Score: -159  P-value: .30
+Homolog: APFGVPNSWTYMNYFNYIKN  Homolog Score: -159  P-value: .30
+Homolog: LEEHAQTCMKLVELVLCNTV  Homolog Score: -159  P-value: .30
+Homolog: GVGTGTFKPTTCHPNVGPVP  Homolog Score: -158  P-value: .30
+Homolog: KNPLPPNYACLKYIFPNVVW  Homolog Score: -158  P-value: .30
+Homolog: YVRIKEWIISCHTVKRKHRD  Homolog Score: -158  P-value: .30
+Homolog: VSPGFKPTKICMAWIDGSHD  Homolog Score: -158  P-value: .30
+Homolog: YIWWFNNSFCITHTKANCCC  Homolog Score: -158  P-value: .30
+Homolog: EKTNGMWIWMSWWVKVSWTW  Homolog Score: -158  P-value: .30
+Homolog: LHDMTARGGALYIFEAYDDM  Homolog Score: -158  P-value: .30
+Homolog: IFEAYDDMITMILEEHAQTC  Homolog Score: -158  P-value: .30
+Homolog: FACIIEMACASDKKQTPMFE  Homolog Score: -158  P-value: .30
+Homolog: MACASDKKQTPMFESSWYPV  Homolog Score: -158  P-value: .30
+Homolog: SDIQMDLDWTCTIRCESSFG  Homolog Score: -157  P-value: .30
+Homolog: GTGTFKPTTCHPNVGPVPKV  Homolog Score: -157  P-value: .30
+Homolog: LTSRSHNDRGMYAFEANYKA  Homolog Score: -157  P-value: .30
+Homolog: SRIGWVNKCIVNFCWAGIKY  Homolog Score: -157  P-value: .30
+Homolog: NELVSPGFKPTKICMAWIDG  Homolog Score: -157  P-value: .30
+Homolog: APMNHCTSGMYWKQKRCHAH  Homolog Score: -157  P-value: .30
+Homolog: SKCQKDQGTSGIQSRNNECH  Homolog Score: -157  P-value: .30
+Homolog: LGTKKRIYPKLDPAHENTNM  Homolog Score: -157  P-value: .30
+Homolog: TNMTENFILHAMAMMKTSYE  Homolog Score: -157  P-value: .30
+Homolog: SVMLMYYHESLEIFFWWSWK  Homolog Score: -157  P-value: .30
+Homolog: CTIRCESSFGVGTGTFKPTT  Homolog Score: -156  P-value: .30
+Homolog: KPTTCHPNVGPVPKVPRAYD  Homolog Score: -156  P-value: .30
+Homolog: PLPPNYACLKYIFPNVVWFN  Homolog Score: -156  P-value: .30
+Homolog: NVCAEYMILSLRQSIGAPFG  Homolog Score: -156  P-value: .30
+Homolog: EYMILSLRQSIGAPFGVPNS  Homolog Score: -156  P-value: .30
+Homolog: YIKNWDHVVLLMDRWNVHHH  Homolog Score: -156  P-value: .30
+Homolog: DESTIDPNHMNCSNMGSTWS  Homolog Score: -156  P-value: .30
+Homolog: DPAHENTNMTENFILHAMAM  Homolog Score: -156  P-value: .30
+Homolog: ILIRYEKTNGMWIWMSWWVK  Homolog Score: -156  P-value: .30
+Homolog: LVELVLCNTVHCQYNAYMMC  Homolog Score: -156  P-value: .30
+Homolog: LMKQCVDQENLLCPSEMTEG  Homolog Score: -156  P-value: .30
+Homolog: RGMDQDLTKGAPYLVEEKWM  Homolog Score: -155  P-value: .30
+Homolog: DFNVCAEYMILSLRQSIGAP  Homolog Score: -155  P-value: .30
+Homolog: GVPNSWTYMNYFNYIKNWDH  Homolog Score: -155  P-value: .30
+Homolog: VFHHEWNNPWPKNWRSGWLE  Homolog Score: -155  P-value: .30
+Homolog: VTVKFPDRLDISMDSNYWLT  Homolog Score: -154  P-value: .30
+Homolog: NYIKNWDHVVLLMDRWNVHH  Homolog Score: -154  P-value: .30
+Homolog: FSRIGWVNKCIVNFCWAGIK  Homolog Score: -154  P-value: .30
+Homolog: HYMPEGWMTSIHHFSLLYTI  Homolog Score: -154  P-value: .30
+Homolog: LSPGAVPVLCQSPNRYGSNG  Homolog Score: -154  P-value: .30
+Homolog: KCQKDQGTSGIQSRNNECHR  Homolog Score: -154  P-value: .30
+Homolog: SQWNLGTKKRIYPKLDPAHE  Homolog Score: -154  P-value: .30
+Homolog: ENTNMTENFILHAMAMMKTS  Homolog Score: -154  P-value: .30
+Homolog: KVSWTWDSVMLMYYHESLEI  Homolog Score: -154  P-value: .30
+Homolog: MLMYYHESLEIFFWWSWKLE  Homolog Score: -154  P-value: .30
+Homolog: DMTARGGALYIFEAYDDMIT  Homolog Score: -154  P-value: .30
+Homolog: MKQCVDQENLLCPSEMTEGH  Homolog Score: -154  P-value: .30
+Homolog: KWMQQPEGTQKPMEIMKPQE  Homolog Score: -153  P-value: .30
+Homolog: SRSHNDRGMYAFEANYKAQL  Homolog Score: -153  P-value: .30
+Homolog: DPSPTCFRMVDFNVCAEYMI  Homolog Score: -153  P-value: .30
+Homolog: LYRTSQWNLGTKKRIYPKLD  Homolog Score: -153  P-value: .30
+Homolog: IFPNVVWFNGIATNFEKKTW  Homolog Score: -152  P-value: .30
+Homolog: VFYVRIKEWIISCHTVKRKH  Homolog Score: -152  P-value: .30
+Homolog: YAMDDESTIDPNHMNCSNMG  Homolog Score: -152  P-value: .30
+Homolog: LPAKRGMDQDLTKGAPYLVE  Homolog Score: -151  P-value: .30
+Homolog: YTFDYEANHGSYKTYTANQQ  Homolog Score: -151  P-value: .30
+Homolog: NQQPRCFACIIEMACASDKK  Homolog Score: -151  P-value: .30
+Homolog: QTPMFESSWYPVYQHILPTC  Homolog Score: -151  P-value: .30
+Homolog: AKRGMDQDLTKGAPYLVEEK  Homolog Score: -150  P-value: .30
+Homolog: IMKPQENGEAVTVKFPDRLD  Homolog Score: -150  P-value: .30
+Homolog: GIATNFEKKTWMNQQARTWI  Homolog Score: -150  P-value: .30
+Homolog: RSGWLECICQCKFWTCHCQL  Homolog Score: -150  P-value: .30
+Homolog: SPNRYGSNGCIKHRYWADVM  Homolog Score: -150  P-value: .30
+Homolog: HENTNMTENFILHAMAMMKT  Homolog Score: -150  P-value: .30
+Homolog: LYIFEAYDDMITMILEEHAQ  Homolog Score: -150  P-value: .30
+Homolog: CMKLVELVLCNTVHCQYNAY  Homolog Score: -150  P-value: .30
+Homolog: SGIQSRNNECHRQSCAYIWW  Homolog Score: -149  P-value: .30
+Homolog: KTSYEDAAHKILIRYEKTNG  Homolog Score: -149  P-value: .30
+Homolog: LMYYHESLEIFFWWSWKLET  Homolog Score: -149  P-value: .30
+Homolog: ALYIFEAYDDMITMILEEHA  Homolog Score: -149  P-value: .30
+Homolog: HMGSCEYMSLSPGAVPVLCQ  Homolog Score: -148  P-value: .30
+Homolog: DPAVLNCCNVIFIPASVFYL  Homolog Score: -147  P-value: .30
+Homolog: YGEPKDPKNPLPPNYACLKY  Homolog Score: -147  P-value: .30
+Homolog: HLHANELVSPGFKPTKICMA  Homolog Score: -147  P-value: .30
+Homolog: ANQQPRCFACIIEMACASDK  Homolog Score: -147  P-value: .30
+Homolog: KVPRAYDPAVLNCCNVIFIP  Homolog Score: -146  P-value: .30
+Homolog: KCIVNFCWAGIKYDHTSEYY  Homolog Score: -146  P-value: .30
+Homolog: NHYMPEGWMTSIHHFSLLYT  Homolog Score: -146  P-value: .30
+Homolog: VRKMSEHLRYPQYEGFFFLH  Homolog Score: -146  P-value: .30
+Homolog: FEAYDDMITMILEEHAQTCM  Homolog Score: -146  P-value: .30
+Homolog: QPEGTQKPMEIMKPQENGEA  Homolog Score: -145  P-value: .30
+Homolog: QVMKYEYGEPKDPKNPLPPN  Homolog Score: -145  P-value: .30
+Homolog: FYQCTDWKMKIFWAYNHDPI  Homolog Score: -145  P-value: .30
+Homolog: YDHTSEYYDMPYAMDDESTI  Homolog Score: -145  P-value: .30
+Homolog: FKPTKICMAWIDGSHDWKFG  Homolog Score: -145  P-value: .30
+Homolog: EMRCFEVWNGVEYSLKVFHH  Homolog Score: -145  P-value: .30
+Homolog: WSWKLETWLKRTLRFSFNGP  Homolog Score: -145  P-value: .30
+Homolog: DWKFGEMRCFEVWNGVEYSL  Homolog Score: -144  P-value: .30
+Homolog: KVFHHEWNNPWPKNWRSGWL  Homolog Score: -144  P-value: .30
+Homolog: LLCPSEMTEGHEPCQPMDDL  Homolog Score: -144  P-value: .30
+Homolog: KYEYGEPKDPKNPLPPNYAC  Homolog Score: -143  P-value: .30
+Homolog: IATNFEKKTWMNQQARTWIK  Homolog Score: -143  P-value: .30
+Homolog: NTNMTENFILHAMAMMKTSY  Homolog Score: -143  P-value: .30
+Homolog: QCVDQENLLCPSEMTEGHEP  Homolog Score: -143  P-value: .30
+Homolog: PYLVEEKWMQQPEGTQKPME  Homolog Score: -142  P-value: .30
+Homolog: VWNGVEYSLKVFHHEWNNPW  Homolog Score: -142  P-value: .30
+Homolog: MPYAMDDESTIDPNHMNCSN  Homolog Score: -141  P-value: .30
+Homolog: LVSPGFKPTKICMAWIDGSH  Homolog Score: -141  P-value: .30
+Homolog: QHMGSCEYMSLSPGAVPVLC  Homolog Score: -141  P-value: .30
+Homolog: IQMDLDWTCTIRCESSFGVG  Homolog Score: -140  P-value: .30
+Homolog: LDISMDSNYWLTSRSHNDRG  Homolog Score: -140  P-value: .30
+Homolog: YTIASEDQFNHRKWKWTMQH  Homolog Score: -140  P-value: .30
+Homolog: QSRNNECHRQSCAYIWWFNN  Homolog Score: -140  P-value: .30
+Homolog: APYLVEEKWMQQPEGTQKPM  Homolog Score: -139  P-value: .30
+Homolog: TWMNQQARTWIKWFRQCVFY  Homolog Score: -139  P-value: .30
+Homolog: YHESLEIFFWWSWKLETWLK  Homolog Score: -138  P-value: .30
+Homolog: GQWQSEATMPRPTRFGFTAF  Homolog Score: -137  P-value: .30
+Homolog: MKTSYEDAAHKILIRYEKTN  Homolog Score: -137  P-value: .30
+Homolog: TMILEEHAQTCMKLVELVLC  Homolog Score: -136  P-value: .30
+Homolog: PQENGEAVTVKFPDRLDISM  Homolog Score: -135  P-value: .30
+Homolog: WMQQPEGTQKPMEIMKPQEN  Homolog Score: -134  P-value: .30
+Homolog: LDPAHENTNMTENFILHAMA  Homolog Score: -134  P-value: .30
+Homolog: AFHAVECNIPHDQVPNDPSP  Homolog Score: -133  P-value: .30
+Homolog: GWMTSIHHFSLLYTIASEDQ  Homolog Score: -133  P-value: .30
+Homolog: LPHISDIQMDLDWTCTIRCE  Homolog Score: -131  P-value: .30
+Homolog: LPPNYACLKYIFPNVVWFNG  Homolog Score: -131  P-value: .30
+Homolog: GMYAFEANYKAQLHPVKFQV  Homolog Score: -129  P-value: .30
+Homolog: ITMILEEHAQTCMKLVELVL  Homolog Score: -128  P-value: .30
+Homolog: LPTCMDMRNMIHGSYVMRHF  Homolog Score: -127  P-value: .30
+Homolog: TQKPMEIMKPQENGEAVTVK  Homolog Score: -126  P-value: .30
+Homolog: RYPQYEGFFFLHDMTARGGA  Homolog Score: -122  P-value: .30
