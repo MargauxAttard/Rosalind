@@ -1,0 +1,65 @@
+def readMatrix (input):
+    matrix = dict()
+    flag = 1
+    i = 0
+    for line in open(input):
+        content = line.strip().split()
+        if flag:
+            colnames = content
+            flag = 0
+            continue
+        rowname = colnames[i]
+        for j in range(len(colnames)):
+            matrix[rowname, colnames[j]] = int(content[j+1])
+        i += 1
+    return matrix
+
+def columnScore(v, w, matrix):
+    backtrack = [ -1 ] * (len(v) + 1)
+    twoColumn = np.zeros([len(v) + 1, 2])
+    for i in range(len(v) + 1):
+        twoColumn[i, 0] = - i * penalty
+    for j in range(1, len(w) + 1):
+        twoColumn[0, 1] = twoColumn[0, 0] - penalty
+        backtrack[0] = (0, j - 1)
+        for i in range(1, len(v) + 1):
+            #List in order of up left diagonal 
+            preNode = [twoColumn[i - 1, 1] - penalty, twoColumn[i, 0] - penalty, twoColumn[i - 1, 0] + matrix[v[i - 1], w[j - 1]]]
+            twoColumn[i, 1] = max(preNode)
+            index = preNode.index(max(preNode))
+            #Previous position in order of up left diagonal
+            previous = [(i - 1, j), (i, j - 1), (i - 1, j - 1)]
+            backtrack[i] = previous[index]
+        #renew first column
+        for i in range(len(v) + 1):
+            twoColumn[i, 0] = twoColumn[i, 1]
+    return twoColumn[:,1], backtrack
+
+def getMaxScore(v, w):
+    fromsource, backtrack = columnScore(v, w[:len(w)/2], matrix)
+    tosink, backtrack = columnScore(v[::-1], w[len(w)/2:][::-1], matrix)
+    tosink = tosink[::-1]
+    length = fromsource + tosink
+    print int(max(length))
+
+def middleEdge(v, w):
+    fromsource, backtrack = columnScore(v, w[:len(w)/2], matrix)
+    tosink, backtrack = columnScore(v[::-1], w[len(w)/2:][::-1], matrix)
+    tosink = tosink[::-1]
+    backtrack = backtrack[::-1]
+    length = fromsource + tosink
+    middleStartX = len(w)/2
+    middleStartY = length.argmax(axis = 0)
+    middleEndX   = len(w) - backtrack[middleStartY][1]
+    middleEndY  = len(v) - backtrack[middleStartY][0]
+    return (middleStartY, middleStartX), (middleEndY, middleEndX)
+
+import numpy as np   
+penalty = 5 
+v = 'YQCMQPKVLLNADSVPERIINNHRIHAYPWHNGNQGSKSRFWATQTTGCRFQMLPQYRFVFFWQNNEGGHCSRRRQMVFWGQEWGMNVIFGMEPSWLASTHEGLLRDMKTEAQNGTKTEESMHLSCLIHTLAILNVKLGEPNLFESTNMKAVGARLYESLTKEGGKEFVQSHPDIFPPNDCAQWWSMMCRSEAWWCVGHTEPWAMKCNPDCWDPHTLATEFFMAEAERWRRQFHDKTWGQKPIDYQIMLHHIQGEWKEYIQWDWCVYIPDIQNNMRNDSMMKYFGMELEFMWMRKPRDKALMENKVWTCWHEDFDVTCYSISDYNEKNNYYIDLPYFHCRKSTFRGVVYKLMCLLCEQWEIPSLNSRFNNYRWGTKDIAYMSARKKMILATYQGWWDSPFTASATNSNWVIIYDCWEKGLGDEKFFLYLINDIPLNVTNFLTEQEICPSWYIPRRTEDMGYHNYLFDKASAFVAIRFCWYTKLFEDPTVHMMTAYMVVWPTDNIYATPPRCTDDSFCQFGKQCMWYDKGRYSIGVMQFRYQCTDANFPKKRHVHKYHDGEPKARMPHESPMYEEFDKTSVDTSNCWDLYRFTSKECYEFGKACMTRNCYWPDRGSTIHAQEYQYQCFCWRGKAHEMDNVQKIQAPTKMMPPQMCHAFTVLETHFKTQWTTASQDAGYCFAWGQERFQDFCIWQFSTMIIILYFAPRWHQRAMSYDVHMVHDDWWLLGMCMMQFLYPIPMLKPWWMDIYYFNNDIFEPWLGMHGEMAIEMTVQTCEWRMIQEMWRIEDWATMTRLYSEHFWAYKFGPPCMHDCCLNNGVCDGTVGCGHDVADSGPALINWLGERIFGFQFLFYNPFAMVKPRKWVQLHDLEPEQEFFFRGEICSRALEAVQSVFYMMWMQWSAFAYKMSIRAHVIADTGKYCIGQTCAAGAPGIPNLYKHWGVQEYDAIWFPNWWGMARQQLQIDEWPEHKMYICWSIHRLSPAFIYCMFQNFYKCSSCALAPWKHVKAGGIQYAIQQMRYARHKTRKFGINPEQS'
+w = 'ICHDFTYYISLPLELWEARGGQNCPMHQAPKMHRTICYWWPDMPHLSCHRPDARFLIFKVNGGHQRKAPQTIIKDEDYINDQKMRCAYCWPREHRLEQAHKTIQNQHRNEWWGTARPRKSKCDGPLHAHMSCLPHHPVWFDDWKVCPTDGCVGHWQSIEYYSYFLYLVTHWYKWREIQIVVHEYTTQFAVGFQNYYACRASLFCSCQFDDFMPIFRYDKICIYQNEQEIPLHNQQGIISVAPTGQVDRYMRDHDLAVHGGCPLQWHPIHGMICCSCSIKRWHCQEPSDGWYQCPNWTMTTKHTMLDNELLFENCQHCSDHYINTLQDLAPFHHDISHNDMTHGCQATSAHMIGDWLVNEDCMDDGWHWNMEIPPSLQWYTKYHVFWLQKQGRYHCSHKTAQPRHLVSYCNFLHSVKKPQVLYRWGVNRQYECNTPNDMPINVLWEPARPQSIPRRTEDMGYHNYLFDPGNERSGYASAFVYIIDSMFWNIGFCWYTKLFEDPEVHMETGYMVVWPTDNLYATPPRCTDDSFCQFNKQCMWYYSIGVMQFRYQCTDANFYMIMQQCKVFKRSGPFRHVKKYHDVEPKARMPHESPVDTSNCILNLKREHRFTCHAEKHTSFFLWQAMRQTSKNFPWDIGMRGHSWLFQGFWLCYYWSHEPGVCSVIMGQAHDNIKHHSEESNPHKLANGSMGTLTSVWTNFKKPHTQKQRSMSSKHVFHSHMNRPIVDCDINFNAQFNVMMFKKRTFATFVNIGSDIPNIMWFYAYHWYSGFLTVAQQKYRGRGQRCGSYLRYKWKKKNNHHYMMGIEKRLLNWIPVHLPNGIDYSWWPMLSLHWCKSTMGCYPCEVERYGPMLEDNPPKPVGMSLLPRGLVHGEYHNIWIPEYHSQVYDEDNDRTDMNAQRQVDGLEMQGEFILIKTNIQACTVVDNLWLTLMLQLNPFKMESQCFMDARKWWIWVDEWNIAVTWYLAGVHDSPFGPKEKTRHELLFLLWGVVSGSLMYVNANVECSMSAGTIWILKSCRAWKHLKTFPTESKCFHHRGWSWVSQDDPTCQ'
+
+blosum = 'Blosum.txt'
+matrix = readMatrix(blosum)
+middle = middleEdge(v, w)
+print ' '.join(map(str, middle))
